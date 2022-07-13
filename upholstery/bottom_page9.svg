@@ -1,0 +1,118 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+    <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'
+    width='300.00mm' height='600.00mm' viewBox='0 0 300.00 600.00'>
+<style type="text/css">
+    path {
+        fill: none;
+        stroke-linecap: butt;
+        stroke-linejoin: bevel;
+        stroke-dasharray: none;
+    }
+    path.outer {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.3;
+        stroke-opacity: 1.0;
+    }
+    path.convex {
+        stroke: #000000;
+        stroke-dasharray: 0.50,1.00;
+        stroke-dashoffset:0;
+        stroke-width:0.2;
+        stroke-opacity: 1.0
+    }
+    path.concave {
+        stroke: #000000;
+        stroke-dasharray: 1.00,0.50,0.20,0.50;
+        stroke-dashoffset: 0;
+        stroke-width: 0.2;
+        stroke-opacity: 1.0
+    }
+    path.freestyle {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.2;
+        stroke-opacity: 1.0
+    }
+    path.outer_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.5
+    }
+    path.inner_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.2
+    }
+    path.sticker {
+        fill: #e5e5e5;
+        stroke: none;
+        fill-opacity: 1.0;
+    }
+    path.arrow {
+        fill: #000000;
+    }
+    text {
+        font-style: normal;
+        fill: #000000;
+        fill-opacity: 1.0;
+        stroke: none;
+    }
+    text, tspan {
+        text-anchor:middle;
+    }
+    </style>
+<g>
+<g>
+<text transform='translate(65.52732083946466 182.0159899070859)' style='font-size:10.00'><tspan>[15] I 15</tspan></text>
+<path class='sticker' d=' M 27.926062 573.000039 L 17.926593 573.187823 L 16.623509 535.415794 L 26.612145 534.914012 Z
+M 114.054640 573.000039 L 113.897544 583.000029 L 51.515204 583.000029 L 51.358108 573.000039 Z
+M 19.411397 326.189752 L 9.418753 326.604064 L 5.000000 249.362881 L 14.974703 248.634930 Z
+M 106.853900 323.173041 L 116.853368 322.985257 L 124.043283 531.395550 L 114.054647 531.897332 Z
+M 14.974703 248.634930 L 21.396835 240.968044 L 113.032040 315.308238 L 106.853900 323.173041 Z
+M 26.612145 534.914012 L 16.612676 535.101797 L 9.422761 326.691533 L 19.411397 326.189752 Z
+M 114.054647 531.897332 L 124.054645 532.054420 L 124.054645 572.842951 L 114.054640 573.000039 Z
+M 51.358108 573.000039 L 51.201013 583.000029 L 28.083158 583.000029 L 27.926062 573.000039 Z '/>
+<path class='outer' d=' M 113.897544 583.000029 L 51.515204 583.000029 L 51.358108 573.000039 L 51.201013 583.000029 L 28.083158 583.000029 L 27.926062 573.000039 L 17.926593 573.187823 L 16.623509 535.415794 L 26.612145 534.914012 L 16.612676 535.101797 L 9.422761 326.691533 L 19.411397 326.189752 L 9.418753 326.604064 L 5.000000 249.362881 L 14.974703 248.634930 L 21.396835 240.968044 L 113.032040 315.308238 L 106.853900 323.173041 L 116.853368 322.985257 L 124.043283 531.395550 L 114.054647 531.897332 L 124.054645 532.054420 L 124.054645 572.842951 L 114.054640 573.000039 Z '/>
+<text transform='matrix(-0.034478 -0.999405 0.999405 -0.034478 25.470172 554.019089)' style='font-size:9.00'><tspan>9.:1</tspan></text>
+<text transform='matrix(-1.000000 -0.000000 0.000000 -1.000000 82.706374 574.800040)' style='font-size:9.00'><tspan>5:7</tspan></text>
+<text transform='matrix(-0.057114 -0.998368 0.998368 -0.057114 15.395989 287.515129)' style='font-size:9.00'><tspan>9.:3</tspan></text>
+<g><path transform='matrix(0.344783 9.994055 -9.994055 0.344783 110.454273 427.535187)' class='arrow' d='M 0 0 L 1 1 L 0 0.25 L -1 1 Z'/><text transform='translate(101.459627 431.845482)' style='font-size:10.00'><tspan>1</tspan></text></g>
+<text transform='matrix(0.034478 0.999405 -0.999405 0.034478 112.253201 427.473123)' style='font-size:9.00'><tspan>4:1</tspan></text>
+<text transform='matrix(0.776584 0.630013 -0.630013 0.776584 62.048324 284.506137)' style='font-size:9.00'><tspan>2:2</tspan></text>
+<g><path transform='matrix(-0.000001 10.000000 -10.000000 -0.000001 114.054640 552.448685)' class='arrow' d='M 0 0 L 1 1 L 0 0.25 L -1 1 Z'/><text transform='translate(105.054636 556.448686)' style='font-size:10.00'><tspan>2</tspan></text></g>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 115.854640 552.448685)' style='font-size:9.00'><tspan>4:2</tspan></text>
+<text transform='matrix(-1.000000 -0.000000 0.000000 -1.000000 39.642085 574.800040)' style='font-size:9.00'><tspan>5:9.</tspan></text>
+</g>
+<g>
+<text transform='translate(72.00000155717134 460.16521472483873)' style='font-size:10.00'><tspan>[8] I 8</tspan></text>
+<path class='sticker' d=' M 17.000017 97.839351 L 7.000019 97.682233 L 7.000019 67.439253 L 17.000017 67.282195 Z
+M 127.000001 38.701589 L 136.999999 38.858647 L 136.999999 67.125077 L 127.000009 67.282136 Z
+M 127.000009 97.839351 L 137.000014 97.996439 L 137.000014 122.055884 L 127.000016 122.212972 Z
+M 17.000009 184.909488 L 7.000011 184.752400 L 7.000019 122.370060 L 17.000017 122.212942 Z
+M 127.000001 184.909518 L 136.999999 185.066606 L 136.999984 216.810937 L 126.999994 216.968055 Z
+M 127.000016 122.212972 L 137.000014 122.370060 L 136.999999 184.752400 L 127.000001 184.909518 Z
+M 17.000017 67.282195 L 7.000019 67.125077 L 7.000011 38.858707 L 17.000009 38.701589 Z
+M 17.000017 122.212942 L 7.000019 122.055854 L 7.000019 97.996409 L 17.000017 97.839351 Z
+M 17.000002 216.967995 L 7.000004 216.810907 L 7.000011 185.066576 L 17.000009 184.909488 Z
+M 126.999994 216.968055 L 126.842898 226.968045 L 27.157095 226.968045 L 27.000007 216.968055 Z
+M 27.000007 216.968055 L 26.921448 221.968050 L 17.078531 221.968020 L 17.000002 216.967995 Z
+M 127.000009 67.282136 L 136.999999 67.439253 L 137.000014 97.682263 L 127.000009 97.839351 Z '/>
+<path class='outer' d=' M 7.000004 216.810907 L 7.000011 185.066576 L 17.000009 184.909488 L 7.000011 184.752400 L 7.000019 122.370060 L 17.000017 122.212942 L 7.000019 122.055854 L 7.000019 97.996409 L 17.000017 97.839351 L 7.000019 97.682233 L 7.000019 67.439253 L 17.000017 67.282195 L 7.000019 67.125077 L 7.000011 38.858707 L 17.000009 38.701589 L 27.000007 38.701589 L 127.000001 38.701589 L 136.999999 38.858647 L 136.999999 67.125077 L 127.000009 67.282136 L 136.999999 67.439253 L 137.000014 97.682263 L 127.000009 97.839351 L 137.000014 97.996439 L 137.000014 122.055884 L 127.000016 122.212972 L 137.000014 122.370060 L 136.999999 184.752400 L 127.000001 184.909518 L 136.999999 185.066606 L 136.999984 216.810937 L 126.999994 216.968055 L 126.842898 226.968045 L 27.157095 226.968045 L 27.000007 216.968055 L 26.921448 221.968050 L 17.078531 221.968020 L 17.000002 216.967995 Z '/>
+<g><path transform='matrix(0.000002 9.999999 -9.999999 0.000002 127.000001 52.991862)' class='arrow' d='M 0 0 L 1 1 L 0 0.25 L -1 1 Z'/><text transform='translate(118.000005 56.991871)' style='font-size:10.00'><tspan>1</tspan></text></g>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 128.800002 52.991862)' style='font-size:9.00'><tspan>2:1</tspan></text>
+<g><path transform='matrix(-0.000003 10.000000 -10.000000 -0.000003 126.999994 200.938757)' class='arrow' d='M 0 0 L 1 1 L 0 0.25 L -1 1 Z'/><text transform='translate(117.999990 204.938765)' style='font-size:10.00'><tspan>2</tspan></text></g>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 128.799994 200.938757)' style='font-size:9.00'><tspan>2:2</tspan></text>
+<g><path transform='matrix(-0.000002 -9.999999 9.999999 -0.000002 17.000009 52.991862)' class='arrow' d='M 0 0 L 1 1 L 0 0.25 L -1 1 Z'/><text transform='translate(26.000009 56.991871)' style='font-size:10.00'><tspan>3</tspan></text></g>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 15.200009 52.991862)' style='font-size:9.00'><tspan>1:3</tspan></text>
+<g><path transform='matrix(0.000003 -10.000000 10.000000 0.000003 17.000002 200.938757)' class='arrow' d='M 0 0 L 1 1 L 0 0.25 L -1 1 Z'/><text transform='translate(26.000001 204.938765)' style='font-size:10.00'><tspan>4</tspan></text></g>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 15.200001 200.938757)' style='font-size:9.00'><tspan>1:4</tspan></text>
+<g><path transform='matrix(-9.999999 0.000000 -0.000000 -9.999999 76.999997 216.968055)' class='arrow' d='M 0 0 L 1 1 L 0 0.25 L -1 1 Z'/><text transform='translate(76.999997 211.968060)' style='font-size:10.00'><tspan>5</tspan></text></g>
+<text transform='matrix(-1.000000 0.000000 -0.000000 -1.000000 76.999997 218.768056)' style='font-size:9.00'><tspan>9.:5</tspan></text>
+<g><path transform='matrix(-10.000000 -0.000028 0.000028 -10.000000 22.000005 216.968025)' class='arrow' d='M 0 0 L 1 1 L 0 0.25 L -1 1 Z'/><text transform='translate(22.000031 211.968030)' style='font-size:10.00'><tspan>6.</tspan></text></g>
+<text transform='matrix(-1.000000 -0.000003 0.000003 -1.000000 22.000005 217.868025)' style='font-size:4.50'><tspan>11:6.</tspan></text>
+</g>
+</g>
+</svg>

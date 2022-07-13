@@ -1,40 +1,7 @@
-<?xml version="1.0" encoding="UTF-8" standalone="no"?>
-<svg
-   version="1.1"
-   width="300.00mm"
-   height="600.00mm"
-   viewBox="0 0 300.00 600.00"
-   id="svg29219"
-   sodipodi:docname="bottom_page9.svg"
-   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:svg="http://www.w3.org/2000/svg">
-  <defs
-     id="defs29223" />
-  <sodipodi:namedview
-     id="namedview29221"
-     pagecolor="#ffffff"
-     bordercolor="#666666"
-     borderopacity="1.0"
-     inkscape:pageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:document-units="mm"
-     showgrid="false"
-     inkscape:zoom="0.35057292"
-     inkscape:cx="566.21602"
-     inkscape:cy="1133.8583"
-     inkscape:window-width="1296"
-     inkscape:window-height="975"
-     inkscape:window-x="0"
-     inkscape:window-y="25"
-     inkscape:window-maximized="0"
-     inkscape:current-layer="svg29219" />
-  <style
-     type="text/css"
-     id="style29139">
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+    <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'
+    width='300.00mm' height='600.00mm' viewBox='0 0 300.00 600.00'>
+<style type="text/css">
     path {
         fill: none;
         stroke-linecap: butt;
@@ -97,149 +64,34 @@
         text-anchor:middle;
     }
     </style>
-  <text
-     style="font-size:10px"
-     id="text29143"
-     x="190.52209"
-     y="346.5867"><tspan
-       id="tspan29141">[15] I 15</tspan></text>
-  <path
-     class="sticker"
-     d="m 228.43725,534.91398 9.98863,0.50178 -1.30309,37.77205 -9.99947,-0.18779 z m -1.31393,38.08604 -0.15708,10 h -85.81441 l -0.15708,-10 z m 12.95142,-324.36509 9.97471,0.72801 -4.41879,77.24112 -9.99265,-0.41431 z m -99.07999,283.26237 -9.98864,-0.50178 7.18993,-208.41029 9.99947,0.18781 z m 7.20076,-208.72426 -6.17814,-7.86483 91.63526,-74.34017 6.42211,7.66689 z m 87.4425,3.01671 9.98864,0.50175 -7.18993,208.41026 -9.99947,-0.18778 z m -94.64326,246.81027 -10.00001,-0.15709 v -40.78854 l 10.00001,-0.15709 z"
-     id="path29145" />
-  <path
-     class="outer"
-     d="m 131.00611,531.39552 7.18993,-208.41029 9.99947,0.18781 -6.17814,-7.86483 91.63526,-74.34017 6.42211,7.66689 9.97471,0.72801 -4.41879,77.24112 -9.99265,-0.41431 9.98864,0.50175 -7.18993,208.41026 -9.99947,-0.18778 9.98863,0.50178 -1.30309,37.77205 -9.99947,-0.18779 -0.15708,10 h -85.81441 l -0.15708,-10 -10.00001,-0.15709 v -40.78854 l 10.00001,-0.15709 z"
-     id="path29147" />
-  <text
-     transform="rotate(91.975836)"
-     style="font-size:9px"
-     id="text29151"
-     x="545.77429"
-     y="-248.54437"><tspan
-       id="tspan29149">11:1</tspan></text>
-  <text
-     transform="scale(-1)"
-     style="font-size:9px"
-     id="text29155"
-     x="-184.05904"
-     y="-574.80005"><tspan
-       id="tspan29153">7:2</tspan></text>
-  <text
-     transform="rotate(93.274172)"
-     style="font-size:9px"
-     id="text29159"
-     x="273.35828"
-     y="-255.6833"><tspan
-       id="tspan29157">11:3</tspan></text>
-  <g
-     id="g29167">
-    <path
-       transform="matrix(0.344784,-9.994055,9.994055,0.344784,144.59514,427.53517)"
-       class="arrow"
-       d="M 0,0 1,1 0,0.25 -1,1 Z"
-       id="path29161" />
-    <text
-       transform="translate(153.58977,431.84547)"
-       style="font-size:10px"
-       id="text29165"><tspan
-         id="tspan29163">1</tspan></text>
-  </g>
-  <text
-     transform="rotate(-88.024164)"
-     style="font-size:9px"
-     id="text29171"
-     x="-422.29575"
-     y="157.44966"><tspan
-       id="tspan29169">5:1</tspan></text>
-  <text
-     transform="rotate(-39.051103)"
-     style="font-size:9px"
-     id="text29175"
-     x="-29.361242"
-     y="342.53632"><tspan
-       id="tspan29173">2:1</tspan></text>
-  <text
-     transform="rotate(-90)"
-     style="font-size:9px"
-     id="text29179"
-     x="-552.44867"
-     y="139.19473"><tspan
-       id="tspan29177">5:2</tspan></text>
-  <g
-     id="g27650"
-     transform="rotate(2.1445858,141.84378,-1108.0186)">
-    <text
-       style="font-style:normal;font-size:10px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       id="text27390"
-       x="120.74595"
-       y="129.51118"><tspan
-         id="tspan27388">[12] I 12</tspan></text>
-    <path
-       class="sticker"
-       d="m 89.436355,367.03698 -9.999469,0.18778 -1.303084,-37.77203 9.988636,-0.50178 z m 86.128575,0 -0.1571,9.99999 H 89.593451 l -0.157096,-9.99999 z M 80.92169,120.22669 70.929046,120.641 66.510293,43.39982 76.484996,42.67187 Z m 87.4425,-3.01671 9.99947,-0.18778 7.18991,208.41029 -9.98863,0.50178 z m -91.879194,-74.53811 6.422132,-7.66689 91.635202,74.3402 -6.17814,7.8648 z m 11.637442,286.27908 -9.999469,0.18779 -7.189915,-208.41027 9.988636,-0.50178 z m 87.442502,-3.01668 9.99999,0.15709 v 40.78853 l -10,0.15709 z"
-       id="path27392"
-       style="fill:#e5e5e5;fill-opacity:1;stroke:none;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none" />
-    <path
-       class="outer"
-       d="m 70.929046,120.641 -4.418753,-77.24118 9.974703,-0.72795 6.422132,-7.66689 91.635202,74.3402 -6.17814,7.8648 9.99947,-0.18778 7.18991,208.41029 -9.98863,0.50178 9.99999,0.15709 v 40.78853 l -10,0.15709 -0.1571,9.99999 H 89.593451 l -0.157096,-9.99999 -9.999469,0.18778 -1.303084,-37.77203 9.988636,-0.50178 -9.999469,0.18779 -7.189915,-208.41027 9.988636,-0.50178 z"
-       id="path27394"
-       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
-    <text
-       transform="rotate(-91.975836)"
-       style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       id="text27398"
-       x="-350.84814"
-       y="74.928352"><tspan
-         id="tspan27396">8:1</tspan></text>
-    <text
-       transform="scale(-1)"
-       style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       id="text27402"
-       x="-132.50064"
-       y="-368.83698"><tspan
-         id="tspan27400">7:6.</tspan></text>
-    <text
-       transform="rotate(-93.274172)"
-       style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       id="text27406"
-       x="-85.811317"
-       y="72.123024"><tspan
-         id="tspan27404">8:3</tspan></text>
-    <g
-       id="g27414"
-       transform="translate(61.510293,-205.96306)">
-      <path
-         transform="matrix(0.344783,9.994055,-9.994055,0.344783,110.45427,427.53519)"
-         class="arrow"
-         d="M 0,0 1,1 0,0.25 -1,1 Z"
-         id="path27408" />
-      <text
-         transform="translate(101.45963,431.84548)"
-         style="font-size:10px"
-         id="text27412"><tspan
-           id="tspan27410">1</tspan></text>
-    </g>
-    <text
-       transform="rotate(88.024164)"
-       style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       id="text27418"
-       x="227.36948"
-       y="-166.02309"><tspan
-         id="tspan27416">5:1</tspan></text>
-    <text
-       transform="rotate(39.051103)"
-       style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       id="text27422"
-       x="145.43704"
-       y="-16.848354"><tspan
-         id="tspan27420">2:2</tspan></text>
-    <text
-       transform="rotate(90)"
-       style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
-       id="text27426"
-       x="346.4856"
-       y="-177.36493"><tspan
-         id="tspan27424">5:4</tspan></text>
-  </g>
+<g>
+<text transform='translate(103.91062963753939 208.13909638673067)' style='font-size:10.00'><tspan>[12] I 12</tspan></text>
+<path class='sticker' d=' M 172.955339 552.381034 L 163.763543 556.322510 L 154.003804 534.514512 L 163.067271 530.286218 Z
+M 14.063467 197.338427 L 12.092729 192.742522 L 21.076997 188.721831 L 23.191114 193.253572 Z
+M 184.630160 578.468318 L 175.438364 582.409824 L 163.891886 556.609298 L 172.955339 552.381034 Z
+M 114.942570 422.751929 L 105.750744 426.693420 L 20.566960 236.350949 L 29.630427 232.122685 Z
+M 146.410559 493.066932 L 137.218763 497.008438 L 105.879103 426.980193 L 114.942570 422.751929 Z
+M 155.538206 488.982017 L 164.730017 485.040511 L 181.258370 521.973069 L 172.194903 526.201333 Z
+M 124.070202 418.667044 L 133.262013 414.725552 L 164.601673 484.753753 L 155.538206 488.982017 Z
+M 23.191114 193.253572 L 32.382925 189.312066 L 47.821541 223.809536 L 38.758074 228.037800 Z
+M 29.630427 232.122685 L 20.438616 236.064161 L 5.000000 201.566692 L 14.063467 197.338427 Z
+M 38.758074 228.037800 L 47.949885 224.096323 L 133.133669 414.438779 L 124.070202 418.667044 Z
+M 182.082986 548.296149 L 191.274797 544.354643 L 202.821259 570.155139 L 193.757792 574.383403 Z
+M 193.757792 574.383403 L 195.728560 578.979309 L 186.744322 583.000029 L 184.630160 578.468318 Z
+M 163.067271 530.286218 L 153.875460 534.227724 L 137.347107 497.295166 L 146.410559 493.066932 Z
+M 172.194903 526.201333 L 181.386714 522.259827 L 191.146438 544.067885 L 182.082986 548.296149 Z '/>
+<path class='outer' d=' M 181.386714 522.259827 L 191.146438 544.067885 L 182.082986 548.296149 L 191.274797 544.354643 L 202.821259 570.155139 L 193.757792 574.383403 L 195.728560 578.979309 L 186.744322 583.000029 L 184.630160 578.468318 L 175.438364 582.409824 L 163.891886 556.609298 L 172.955339 552.381034 L 163.763543 556.322510 L 154.003804 534.514512 L 163.067271 530.286218 L 153.875460 534.227724 L 137.347107 497.295166 L 146.410559 493.066932 L 137.218763 497.008438 L 105.879103 426.980193 L 114.942570 422.751929 L 105.750744 426.693420 L 20.566960 236.350949 L 29.630427 232.122685 L 20.438616 236.064161 L 5.000000 201.566692 L 14.063467 197.338427 L 12.092729 192.742522 L 21.076997 188.721831 L 23.191114 193.253572 L 32.382925 189.312066 L 47.821541 223.809536 L 38.758074 228.037800 L 47.949885 224.096323 L 133.133669 414.438779 L 124.070202 418.667044 L 133.262013 414.725552 L 164.601673 484.753753 L 155.538206 488.982017 L 164.730017 485.040511 L 181.258370 521.973069 L 172.194903 526.201333 Z '/>
+<text transform='matrix(0.912764 -0.408486 0.408486 0.912764 18.259649 194.474514)' style='font-size:4.50'><tspan>6.:1</tspan></text>
+<g><path transform='matrix(-4.084882 -9.127635 9.127635 -4.084882 178.792750 565.424676)' class='arrow' d='M 0 0 L 1 1 L 0 0.25 L -1 1 Z'/><text transform='translate(187.007626 565.748285)' style='font-size:10.00'><tspan>1</tspan></text></g>
+<text transform='matrix(-0.408488 -0.912764 0.912764 -0.408488 177.149777 566.159959)' style='font-size:9.00'><tspan>1:1</tspan></text>
+<g><path transform='matrix(-4.084883 -9.127636 9.127636 -4.084883 72.286491 327.437307)' class='arrow' d='M 0 0 L 1 1 L 0 0.25 L -1 1 Z'/><text transform='translate(80.501360 327.760930)' style='font-size:10.00'><tspan>2</tspan></text></g>
+<text transform='matrix(-0.408488 -0.912764 0.912764 -0.408488 70.643519 328.172590)' style='font-size:9.00'><tspan>3:2</tspan></text>
+<g><path transform='matrix(-4.084883 -9.127635 9.127635 -4.084883 130.676572 457.909415)' class='arrow' d='M 0 0 L 1 1 L 0 0.25 L -1 1 Z'/><text transform='translate(138.891448 458.233009)' style='font-size:10.00'><tspan>3</tspan></text></g>
+<text transform='matrix(-0.408488 -0.912764 0.912764 -0.408488 129.033585 458.644698)' style='font-size:9.00'><tspan>1:3</tspan></text>
+<text transform='matrix(0.408488 0.912764 -0.912764 0.408488 32.617559 209.910418)' style='font-size:9.00'><tspan>10:5</tspan></text>
+<g><path transform='matrix(-4.084882 -9.127637 9.127637 -4.084882 21.846955 214.730556)' class='arrow' d='M 0 0 L 1 1 L 0 0.25 L -1 1 Z'/><text transform='translate(30.061827 215.054180)' style='font-size:10.00'><tspan>4</tspan></text></g>
+<text transform='matrix(-0.408488 -0.912764 0.912764 -0.408488 20.203982 215.465839)' style='font-size:9.00'><tspan>3:4</tspan></text>
+<text transform='matrix(0.408488 0.912764 -0.912764 0.408488 189.563368 560.604448)' style='font-size:9.00'><tspan>10:6.</tspan></text>
+<text transform='matrix(-0.912762 0.408492 -0.408492 -0.912762 189.561625 577.247347)' style='font-size:4.50'><tspan>7:6.</tspan></text>
+</g>
 </svg>
