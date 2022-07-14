@@ -1,19 +1,19 @@
 <?xml version="1.0" encoding="UTF-8" standalone="no"?>
 <svg
-   xmlns:dc="http://purl.org/dc/elements/1.1/"
-   xmlns:cc="http://creativecommons.org/ns#"
-   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
-   xmlns:svg="http://www.w3.org/2000/svg"
-   xmlns="http://www.w3.org/2000/svg"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
    version="1.1"
    width="300.00mm"
    height="600.00mm"
    viewBox="0 0 300.00 600.00"
    id="svg926"
    sodipodi:docname="backrest_page15.svg"
-   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)">
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:dc="http://purl.org/dc/elements/1.1/">
   <metadata
      id="metadata90">
     <rdf:RDF>
@@ -38,12 +38,12 @@
      inkscape:document-units="mm"
      showgrid="false"
      inkscape:zoom="0.35057292"
-     inkscape:cx="39.93464"
+     inkscape:cx="38.508394"
      inkscape:cy="1133.8583"
-     inkscape:window-width="1920"
-     inkscape:window-height="1017"
-     inkscape:window-x="-8"
-     inkscape:window-y="209"
+     inkscape:window-width="1792"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
      inkscape:window-maximized="1"
      inkscape:current-layer="svg926" />
   <style
@@ -118,10 +118,8 @@
        style="font-size:10px"
        id="text828-3"
        x="103.70333"
-       y="338.23392">
-      <tspan
-         id="tspan826-0">[7] I 7</tspan>
-    </text>
+       y="338.23392"><tspan
+         id="tspan826-0">[7] I 7</tspan></text>
     <path
        class="sticker"
        d="m 37.891288,338.64411 -8.770168,4.80718 -24.12109,-42.41187 8.614838,-5.08028 z m -3e-5,75.87192 -10.000005,-0.15709 3e-5,-75.55774 10.000005,-0.15709 z m 44.677198,-159.65575 6.802321,-6.36286 12.733013,13.1909 -6.599107,6.57338 z m 100.398154,85.37611 9.53199,-3.0275 9.34026,27.88176 -9.4322,3.32542 z m -28.23173,-23.64683 6.54154,-7.56523 27.99088,23.44507 -6.30069,7.76699 z m 37.67178,51.82651 10,0.1571 -3e-5,45.78584 -9.99999,0.15709 z m -74.78479,-51.82654 0.15709,-9.99999 36.79884,3e-5 0.15708,9.99999 z m -22.117187,-48.32783 9.158377,-4.01858 21.98644,48.04218 -9.02763,4.30423 z m -81.889815,27.69744 -4.98496,-8.67033 66.983633,-39.92471 6.954915,7.49618 z m -3e-5,237.11374 L 5,527.9926 l 24.121091,-42.41183 8.770167,4.80717 z m 24.27642,-42.68494 -10.000005,-0.15709 v -75.55772 l 10.000005,-0.1571 z m 57.613314,70.38245 6.599088,6.57338 -12.733025,13.19086 -6.802305,-6.36285 z m 96.902058,-100.15425 9.43218,3.32541 -9.34027,27.88176 -9.53199,-3.0275 z m -9.44008,28.17967 6.30067,7.76699 -27.99089,23.44504 -6.54154,-7.56523 z m 9.44009,-74.27971 9.99999,0.15709 -1e-5,45.78586 -9.99999,0.15709 z m -37.67185,97.92651 -0.1571,9.99999 -36.79882,-6e-5 -0.15708,-9.99999 z m -37.113,-6e-5 9.02762,4.30426 -21.98647,48.04215 -9.158368,-4.01857 z m -35.05346,61.72923 -6.954938,7.49612 -66.983514,-39.92469 4.98496,-8.67033 z"
@@ -139,19 +137,15 @@
        style="font-size:10px"
        id="text838-2"
        x="33.576321"
-       y="316.85226">
-      <tspan
-         id="tspan836-7">1</tspan>
-    </text>
+       y="316.85226"><tspan
+         id="tspan836-7">1</tspan></text>
     <text
        transform="rotate(-119.62841)"
        style="font-size:9px"
        id="text844"
        x="-288.54602"
-       y="-136.27946">
-      <tspan
-         id="tspan842">15:1</tspan>
-    </text>
+       y="-136.27946"><tspan
+         id="tspan842">15:1</tspan></text>
     <path
        class="arrow"
        d="m 89.036574,261.56097 -0.24975,14.13993 -1.54896,-12.40366 -12.34122,-1.98602 z"
@@ -161,19 +155,15 @@
        style="font-size:10px"
        id="text850"
        x="82.561211"
-       y="271.81158">
-      <tspan
-         id="tspan848">2</tspan>
-    </text>
+       y="271.81158"><tspan
+         id="tspan848">2</tspan></text>
     <text
        transform="rotate(46.011896)"
        style="font-size:8.38px"
        id="text856"
        x="250.02565"
-       y="115.91969">
-      <tspan
-         id="tspan854">1:2</tspan>
-    </text>
+       y="115.91969"><tspan
+         id="tspan854">1:2</tspan></text>
     <path
        class="arrow"
        d="M 48.091655,275.40969 61.80147,278.8797 49.371631,277.55717 44.621648,289.1195 Z"
@@ -183,19 +173,15 @@
        style="font-size:10px"
        id="text862"
        x="52.699566"
-       y="287.14062">
-      <tspan
-         id="tspan860">3</tspan>
-    </text>
+       y="287.14062"><tspan
+         id="tspan860">3</tspan></text>
     <text
        transform="rotate(-30.796486)"
        style="font-size:9px"
        id="text868"
        x="-99.696915"
-       y="259.397">
-      <tspan
-         id="tspan866">19:3</tspan>
-    </text>
+       y="259.397"><tspan
+         id="tspan866">19:3</tspan></text>
     <path
        class="arrow"
        d="m 25.753041,511.7304 13.636228,-3.74877 -11.463103,4.9847 1.575645,12.4003 z"
@@ -205,19 +191,15 @@
        style="font-size:10px"
        id="text874"
        x="33.57629"
-       y="520.17975">
-      <tspan
-         id="tspan872">4</tspan>
-    </text>
+       y="520.17975"><tspan
+         id="tspan872">4</tspan></text>
     <text
        transform="rotate(-60.37159)"
        style="font-size:9px"
        id="text880"
        x="-432.08994"
-       y="273.5715">
-      <tspan
-         id="tspan878">15:4</tspan>
-    </text>
+       y="273.5715"><tspan
+         id="tspan878">15:4</tspan></text>
     <path
        class="arrow"
        d="m 89.036454,567.47108 -14.139932,0.24972 12.341225,-1.986 1.548985,-12.40365 z"
@@ -227,19 +209,15 @@
        style="font-size:10px"
        id="text886-7"
        x="82.561111"
-       y="565.22052">
-      <tspan
-         id="tspan884-3">5</tspan>
-    </text>
+       y="565.22052"><tspan
+         id="tspan884-3">5</tspan></text>
     <text
        transform="rotate(133.98819)"
        style="font-size:8.38px"
        id="text892-9"
        x="346.4491"
-       y="-459.85098">
-      <tspan
-         id="tspan890-6">1:5</tspan>
-    </text>
+       y="-459.85098"><tspan
+         id="tspan890-6">1:5</tspan></text>
     <path
        class="arrow"
        d="m 48.09158,553.62233 -3.469999,-13.70982 4.749977,11.56234 12.429841,-1.32252 z"
@@ -249,32 +227,26 @@
        style="font-size:10px"
        id="text898-1"
        x="52.699501"
-       y="549.89142">
-      <tspan
-         id="tspan896-7">6.</tspan>
-    </text>
+       y="549.89142"><tspan
+         id="tspan896-7">6.</tspan></text>
     <text
        transform="rotate(-149.20347)"
        style="font-size:9px"
        id="text904-0"
        x="-324.7598"
-       y="-452.73404">
-      <tspan
-         id="tspan902-7">16:6.</tspan>
-    </text>
+       y="-452.73404"><tspan
+         id="tspan902-7">16:6.</tspan></text>
   </g>
   <g
      id="g2784"
-     transform="rotate(-58.626107,114.79061,369.84848)">
+     transform="matrix(1.0184148,-0.13690679,0.13922345,1.0014685,-55.239432,9.3836896)">
     <text
        style="font-style:normal;font-size:10px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="text2617"
        x="85.823006"
-       y="348.74445">
-      <tspan
+       y="348.74445"><tspan
          id="tspan2615"
-         style="text-anchor:middle">[18] I 18</tspan>
-    </text>
+         style="text-anchor:middle">[18] I 18</tspan></text>
     <path
        inkscape:connector-curvature="0"
        class="sticker"
@@ -286,86 +258,70 @@
        class="outer"
        d="m 135.73778,450.62157 -10.25059,74.85955 -9.92886,-1.20102 9.89079,1.48224 -5.9314,44.31842 -9.93247,-1.17083 0.27629,9.99742 -94.380586,4.09268 -0.590173,-9.98381 L 5,571.53394 l 4.882574,-36.48063 9.932458,1.17086 -9.890788,-1.48221 3.213501,-24.01098 9.932465,1.17081 -9.890785,-1.48224 10.023027,-74.88998 9.932464,1.17083 -9.890786,-1.48225 10.023026,-74.88999 9.932462,1.17083 -9.89078,-1.48226 3.213596,-24.01096 9.932462,1.17085 -9.890787,-1.48219 4.882321,-36.48061 9.932466,1.17076 3.194775,-9.47723 89.982719,28.76723 -2.8955,9.57292 9.89078,1.48225 -5.93147,44.31838 -9.93246,-1.17083 9.89524,1.45217 -9.79544,74.92047 -9.93599,-1.14066 z"
        id="path2621"
-       style="fill:none;stroke:#000000;stroke-width:0.30000001;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
+       style="fill:none;stroke:#000000;stroke-width:0.3;stroke-linecap:butt;stroke-linejoin:bevel;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1" />
     <text
        transform="rotate(97.448904)"
        style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="text2625"
        x="391.06738"
-       y="-184.81284">
-      <tspan
+       y="-184.81284"><tspan
          id="tspan2623"
-         style="text-anchor:middle">5:5</tspan>
-    </text>
+         style="text-anchor:middle">5:5</tspan></text>
     <text
        transform="rotate(-82.377191)"
        style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="text2629"
        x="-309.47455"
-       y="88.971191">
-      <tspan
+       y="88.971191"><tspan
          id="tspan2627"
-         style="text-anchor:middle">14:1</tspan>
-    </text>
+         style="text-anchor:middle">14:1</tspan></text>
     <text
        transform="rotate(97.622987)"
        style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="text2633"
        x="330.05975"
-       y="-185.88504">
-      <tspan
+       y="-185.88504"><tspan
          id="tspan2631"
-         style="text-anchor:middle">5:6.</tspan>
-    </text>
+         style="text-anchor:middle">5:6.</tspan></text>
     <text
        transform="rotate(17.728925)"
        style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="text2637"
        x="187.80171"
-       y="268.67319">
-      <tspan
+       y="268.67319"><tspan
          id="tspan2635"
-         style="text-anchor:middle">12:1</tspan>
-    </text>
+         style="text-anchor:middle">12:1</tspan></text>
     <text
        transform="rotate(97.797074)"
        style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="text2641"
        x="465.81961"
-       y="-187.41637">
-      <tspan
+       y="-187.41637"><tspan
          id="tspan2639"
-         style="text-anchor:middle">5:12</tspan>
-    </text>
+         style="text-anchor:middle">5:12</tspan></text>
     <text
        transform="rotate(-82.376843)"
        style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="text2645"
        x="-547.4165"
-       y="88.973785">
-      <tspan
+       y="88.973785"><tspan
          id="tspan2643"
-         style="text-anchor:middle">14:4</tspan>
-    </text>
+         style="text-anchor:middle">14:4</tspan></text>
     <text
        transform="rotate(97.62293)"
        style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="text2649"
        x="526.83148"
-       y="-185.88446">
-      <tspan
+       y="-185.88446"><tspan
          id="tspan2647"
-         style="text-anchor:middle">5:13</tspan>
-    </text>
+         style="text-anchor:middle">5:13</tspan></text>
     <text
        transform="rotate(177.517)"
        style="font-style:normal;font-size:9px;text-anchor:middle;fill:#000000;fill-opacity:1;stroke:none"
        id="text2653"
        x="-37.44376"
-       y="-574.9234">
-      <tspan
+       y="-574.9234"><tspan
          id="tspan2651"
-         style="text-anchor:middle">13:1</tspan>
-    </text>
+         style="text-anchor:middle">13:1</tspan></text>
   </g>
 </svg>
