@@ -1,0 +1,931 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   version="1.1"
+   width="300.00mm"
+   height="600.00mm"
+   viewBox="0 0 300.00 600.00"
+   id="svg23498"
+   sodipodi:docname="frontseat_edgesupport_slice2.svg"
+   inkscape:version="1.1.1 (c3084ef, 2021-09-22)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs23502" />
+  <sodipodi:namedview
+     id="namedview23500"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.35057292"
+     inkscape:cx="309.49339"
+     inkscape:cy="745.92185"
+     inkscape:window-width="1296"
+     inkscape:window-height="975"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="svg23498" />
+  <style
+     type="text/css"
+     id="style23098">
+    path {
+        fill: none;
+        stroke-linecap: butt;
+        stroke-linejoin: bevel;
+        stroke-dasharray: none;
+    }
+    path.outer {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.3;
+        stroke-opacity: 1.0;
+    }
+    path.convex {
+        stroke: #000000;
+        stroke-dasharray: 0.50,1.00;
+        stroke-dashoffset:0;
+        stroke-width:0.2;
+        stroke-opacity: 1.0
+    }
+    path.concave {
+        stroke: #000000;
+        stroke-dasharray: 1.00,0.50,0.20,0.50;
+        stroke-dashoffset: 0;
+        stroke-width: 0.2;
+        stroke-opacity: 1.0
+    }
+    path.freestyle {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.2;
+        stroke-opacity: 1.0
+    }
+    path.outer_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.5
+    }
+    path.inner_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.2
+    }
+    path.sticker {
+        fill: #e5e5e5;
+        stroke: none;
+        fill-opacity: 1.0;
+    }
+    path.arrow {
+        fill: #000000;
+    }
+    text {
+        font-style: normal;
+        fill: #000000;
+        fill-opacity: 1.0;
+        stroke: none;
+    }
+    text, tspan {
+        text-anchor:middle;
+    }
+    </style>
+  <g
+     id="g23266"
+     transform="rotate(13.289085,288.2068,608.86636)">
+    <text
+       transform="translate(82.453464,195.35779)"
+       style="font-size:10px"
+       id="text23102"><tspan
+         id="tspan23100">[58] I 58</tspan></text>
+    <path
+       class="sticker"
+       d="m 17.000009,484.11074 -7.480174,-6.27142 -1.5e-5,-8.57145 7.480204,-0.11751 z m 47.34578,-124.37797 -7.687732,-6.8053 9.195625,-16.99412 9.637125,3.20268 z m -34.51956,161.74299 -10.954932,-1.11333 -11.27854,-32.8564 9.407252,-3.39529 z m 9.990304,-142.36868 -6.07495,-7.94479 23.698993,-18.71854 6.905213,7.28902 z m -15.413776,34.29719 -9.056806,-4.24253 14.824435,-32.98582 9.646147,2.93116 z m -4.576176,7.77287 -3.85049,-2.34915 2.771586,-4.70766 5.65508,-0.71606 z m 55.661231,64.23551 9.592436,2.83018 -12.500189,44.95743 -9.676613,-2.52748 z m 63.037918,-246.84438 -5.19596,-11.10414 7.39144,-13.02269 8.77435,4.79952 z m 3.31206,8.21415 9.59245,2.83017 -28.51276,102.54714 -9.67659,-2.52747 z m -116.169023,318.41099 -9.940199,-1.10307 4.127696,-43.40488 9.969965,0.7903 z m -5.937613,-134.74539 -4.634708,-0.12052 0.09394,-9.12526 4.636199,-0.0251 z m 129.764406,-211.20706 9.59243,2.83018 -7.57359,27.23875 -9.67661,-2.52747 z m -36.25467,130.3913 9.59243,2.83018 -12.7921,46.00726 -9.6766,-2.52749 z m -61.918962,222.69392 -2.830177,9.59241 -25.350467,-7.04858 2.527483,-9.6766 z m 11.581518,-41.6534 9.592444,2.83015 -11.497371,41.35072 -9.676591,-2.52747 z m 25.168725,-90.52027 9.592428,2.83019 -12.500189,44.95743 -9.676598,-2.52748 z M 75.490807,339.13603 67.247753,333.4724 112.37114,265.53595 132.13852,253.84888 Z m 56.647713,-85.28715 -3.85663,-1.60632 2.68521,-6.74346 4.26213,0.58797 z M 17.000024,469.15036 7.143845,466.7595 l 2.601057,-36.85871 9.986252,0.54723 z m 118.229206,-223.06329 -3.7335,-1.70729 3.24472,-7.40069 3.78528,1.58918 z m -34.86461,149.85514 9.59243,2.83019 -12.208289,43.9076 -9.67659,-2.52749 z"
+       id="path23104" />
+    <path
+       class="convex"
+       d="m 19.731154,430.44802 -2.73113,38.70234 m 0,0 -1.5e-5,14.96038 m 0,0 12.82622,37.36502 m 0,0 -4.157462,43.71765 m 0,0 25.653161,7.13277 m 0,0 11.581518,-41.6534 m 0,0 12.584366,-45.26013 m 0,0 12.584359,-45.26014 m 0,0 12.292449,-44.2103 m 0,0 12.87627,-46.30995 m 0,0 28.5969,-102.84984 m 0,0 7.65777,-27.54146 m 0,0 -10.96983,19.32731 m 0,0 -3.2965,7.5188 m 0,0 -3.09071,7.76181 m 0,0 -56.647713,85.28715 m 0,0 -11.145018,20.59674 m 0,0 -24.529256,19.37431 m 0,0 -15.413776,34.29719 m 0,0 -4.576176,7.77287 m 0,0 -0.09543,9.27088"
+       id="path23106" />
+    <path
+       class="outer"
+       d="m 9.519835,477.83932 -1.5e-5,-8.57145 7.480204,-0.11751 -9.856179,-2.39086 2.601057,-36.85871 9.986252,0.54723 -4.634708,-0.12052 0.09394,-9.12526 4.636199,-0.0251 -3.85049,-2.34915 2.771586,-4.70766 5.65508,-0.71606 -9.056806,-4.24253 14.824435,-32.98582 9.646147,2.93116 -6.07495,-7.94479 23.698993,-18.71854 6.905213,7.28902 -7.687732,-6.8053 9.195625,-16.99412 9.637125,3.20268 -8.243054,-5.66363 45.123383,-67.93645 19.76738,-11.68707 -3.85663,-1.60632 2.68521,-6.74346 4.26213,0.58797 -3.7335,-1.70729 3.24472,-7.40069 3.78528,1.58918 -5.19596,-11.10414 7.39144,-13.02269 8.77435,4.79952 9.59243,2.83018 -7.57359,27.23875 -9.67661,-2.52747 9.59245,2.83017 -28.51276,102.54714 -9.67659,-2.52747 9.59243,2.83018 -12.7921,46.00726 -9.6766,-2.52749 9.59243,2.83019 -12.208285,43.9076 -9.67659,-2.52749 9.592428,2.83019 -12.500189,44.95743 -9.676598,-2.52748 9.592436,2.83018 -12.500189,44.95743 -9.676613,-2.52748 9.592444,2.83015 -11.497371,41.35072 -9.676591,-2.52747 -2.830177,9.59241 -25.350467,-7.04858 2.527483,-9.6766 -9.940199,-1.10307 4.127696,-43.40488 9.969965,0.7903 -10.954932,-1.11333 -11.27854,-32.8564 9.407252,-3.39529 z"
+       id="path23108" />
+    <g
+       id="g23116">
+      <path
+         transform="matrix(3e-6,-9.999999,9.999999,3e-6,17.000009,476.63053)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23110" />
+      <text
+         transform="translate(26.000009,480.63053)"
+         style="font-size:10px"
+         id="text23114"><tspan
+           id="tspan23112">1</tspan></text>
+    </g>
+    <text
+       transform="rotate(-90,246.14205,230.48848)"
+       style="font-size:6.73px"
+       id="text23120"><tspan
+         id="tspan23118">35:1</tspan></text>
+    <g
+       id="g23128">
+      <path
+         transform="matrix(4.759019,-8.794983,8.794983,4.759019,69.918294,349.4344)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23122" />
+      <text
+         transform="translate(77.833776,357.71751)"
+         style="font-size:10px"
+         id="text23126"><tspan
+           id="tspan23124">2</tspan></text>
+    </g>
+    <text
+       transform="rotate(-61.581896,326.645,116.9517)"
+       style="font-size:9px"
+       id="text23132"><tspan
+         id="tspan23130">12:2</tspan></text>
+    <text
+       transform="rotate(-108.9457,190.56321,243.93798)"
+       style="font-size:9px"
+       id="text23136"><tspan
+         id="tspan23134">7:1</tspan></text>
+    <g
+       id="g23144">
+      <path
+         transform="matrix(7.84741,-6.198239,6.198239,7.84741,52.081157,369.41993)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23138" />
+      <text
+         transform="translate(57.659571,380.48259)"
+         style="font-size:10px"
+         id="text23142"><tspan
+           id="tspan23140">3</tspan></text>
+    </g>
+    <text
+       transform="rotate(-38.303278,555.30889,110.62779)"
+       style="font-size:9px"
+       id="text23148"><tspan
+         id="tspan23146">38:3</tspan></text>
+    <text
+       transform="rotate(-65.799999,320.92266,174.2109)"
+       style="font-size:9px"
+       id="text23152"><tspan
+         id="tspan23150">29:1</tspan></text>
+    <g
+       id="g23160">
+      <path
+         transform="matrix(5.073418,-8.617449,8.617449,5.073418,22.114669,417.29071)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23154" />
+      <text
+         transform="translate(29.870373,425.85678)"
+         style="font-size:10px"
+         id="text23158"><tspan
+           id="tspan23156">4</tspan></text>
+    </g>
+    <text
+       transform="rotate(-59.513063,375.30443,189.70996)"
+       style="font-size:4.06px"
+       id="text23164"><tspan
+         id="tspan23162">8:4</tspan></text>
+    <text
+       transform="rotate(105.53834,-157.7465,281.21198)"
+       style="font-size:9px"
+       id="text23168"><tspan
+         id="tspan23166">42:2</tspan></text>
+    <g
+       id="g23176">
+      <path
+         transform="matrix(4.936147,-8.696806,8.696806,4.936147,144.01065,228.90463)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23170" />
+      <text
+         transform="translate(151.83777,237.34718)"
+         style="font-size:10px"
+         id="text23174"><tspan
+           id="tspan23172">5</tspan></text>
+    </g>
+    <text
+       transform="rotate(-60.42155,267.0233,-8.3118231)"
+       style="font-size:9px"
+       id="text23180"><tspan
+         id="tspan23178">51:5</tspan></text>
+    <text
+       transform="rotate(105.53834,-48.848765,198.46165)"
+       style="font-size:9px"
+       id="text23184"><tspan
+         id="tspan23182">41:2</tspan></text>
+    <text
+       transform="rotate(-84.567618,311.61211,257.31149)"
+       style="font-size:9px"
+       id="text23188"><tspan
+         id="tspan23186">44:4</tspan></text>
+    <text
+       transform="rotate(-89.410301,224.57683,203.33177)"
+       style="font-size:4.17px"
+       id="text23192"><tspan
+         id="tspan23190">10:5</tspan></text>
+    <g
+       id="g23200">
+      <path
+         transform="matrix(-2.678827,9.634515,-9.634515,-2.678827,145.66668,233.01169)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23194" />
+      <text
+         transform="translate(136.99562,234.60075)"
+         style="font-size:10px"
+         id="text23198"><tspan
+           id="tspan23196">6.</tspan></text>
+    </g>
+    <text
+       transform="rotate(105.53834,-15.014328,172.75118)"
+       style="font-size:9px"
+       id="text23204"><tspan
+         id="tspan23202">47:6.</tspan></text>
+    <text
+       transform="rotate(105.53834,-87.553308,227.87284)"
+       style="font-size:9px"
+       id="text23208"><tspan
+         id="tspan23206">45:3</tspan></text>
+    <g
+       id="g23216">
+      <path
+         transform="matrix(-9.634514,-2.678833,2.678833,-9.634514,38.495344,568.75979)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23210" />
+      <text
+         transform="translate(40.906292,564.08874)"
+         style="font-size:10px"
+         id="text23214"><tspan
+           id="tspan23212">7</tspan></text>
+    </g>
+    <text
+       transform="rotate(-164.46166,57.924202,282.6539)"
+       style="font-size:9px"
+       id="text23220"><tspan
+         id="tspan23218">14:7</tspan></text>
+    <text
+       transform="rotate(105.53834,-180.29914,298.3495)"
+       style="font-size:9px"
+       id="text23224"><tspan
+         id="tspan23222">39:3</tspan></text>
+    <text
+       transform="rotate(105.53834,-134.25796,263.36325)"
+       style="font-size:9px"
+       id="text23228"><tspan
+         id="tspan23226">53:3</tspan></text>
+    <text
+       transform="rotate(-56.407869,326.66163,52.355528)"
+       style="font-size:9px"
+       id="text23232"><tspan
+         id="tspan23230">21:4</tspan></text>
+    <g
+       id="g23240">
+      <path
+         transform="matrix(3.699454,-9.290534,9.290534,3.699454,133.68388,249.96799)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23234" />
+      <text
+         transform="translate(142.04535,257.29751)"
+         style="font-size:10px"
+         id="text23238"><tspan
+           id="tspan23236">8</tspan></text>
+    </g>
+    <text
+       transform="matrix(0.369945,-0.929053,0.929053,0.369945,132.98531,249.68981)"
+       style="font-size:3.76px"
+       id="text23244"><tspan
+         id="tspan23242">61:8</tspan></text>
+    <text
+       transform="rotate(-85.963439,249.54666,215.94604)"
+       style="font-size:9px"
+       id="text23248"><tspan
+         id="tspan23246">10:6.</tspan></text>
+    <g
+       id="g23256">
+      <path
+         transform="matrix(4.01536,-9.158433,9.158433,4.01536,136.87748,242.32768)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23250" />
+      <text
+         transform="translate(145.12007,249.94152)"
+         style="font-size:10px"
+         id="text23254"><tspan
+           id="tspan23252">9.</tspan></text>
+    </g>
+    <text
+       transform="rotate(-66.325758,253.29325,16.799932)"
+       style="font-size:3.69px"
+       id="text23260"><tspan
+         id="tspan23258">36:9.</tspan></text>
+    <text
+       transform="rotate(105.53834,-111.04185,245.72155)"
+       style="font-size:9px"
+       id="text23264"><tspan
+         id="tspan23262">32:2</tspan></text>
+  </g>
+  <g
+     id="g23266-4"
+     transform="matrix(-0.42449365,-0.90543092,-0.90543092,0.42449365,551.11085,61.133552)">
+    <text
+       transform="translate(82.453464,195.35779)"
+       style="font-size:10px"
+       id="text23102-7"><tspan
+         id="tspan23100-7">[58] I 58</tspan></text>
+    <path
+       class="sticker"
+       d="m 17.000009,484.11074 -7.480174,-6.27142 -1.5e-5,-8.57145 7.480204,-0.11751 z m 47.34578,-124.37797 -7.687732,-6.8053 9.195625,-16.99412 9.637125,3.20268 z m -34.51956,161.74299 -10.954932,-1.11333 -11.27854,-32.8564 9.407252,-3.39529 z m 9.990304,-142.36868 -6.07495,-7.94479 23.698993,-18.71854 6.905213,7.28902 z m -15.413776,34.29719 -9.056806,-4.24253 14.824435,-32.98582 9.646147,2.93116 z m -4.576176,7.77287 -3.85049,-2.34915 2.771586,-4.70766 5.65508,-0.71606 z m 55.661231,64.23551 9.592436,2.83018 -12.500189,44.95743 -9.676613,-2.52748 z m 63.037918,-246.84438 -5.19596,-11.10414 7.39144,-13.02269 8.77435,4.79952 z m 3.31206,8.21415 9.59245,2.83017 -28.51276,102.54714 -9.67659,-2.52747 z m -116.169023,318.41099 -9.940199,-1.10307 4.127696,-43.40488 9.969965,0.7903 z m -5.937613,-134.74539 -4.634708,-0.12052 0.09394,-9.12526 4.636199,-0.0251 z m 129.764406,-211.20706 9.59243,2.83018 -7.57359,27.23875 -9.67661,-2.52747 z m -36.25467,130.3913 9.59243,2.83018 -12.7921,46.00726 -9.6766,-2.52749 z m -61.918962,222.69392 -2.830177,9.59241 -25.350467,-7.04858 2.527483,-9.6766 z m 11.581518,-41.6534 9.592444,2.83015 -11.497371,41.35072 -9.676591,-2.52747 z m 25.168725,-90.52027 9.592428,2.83019 -12.500189,44.95743 -9.676598,-2.52748 z M 75.490807,339.13603 67.247753,333.4724 112.37114,265.53595 132.13852,253.84888 Z m 56.647713,-85.28715 -3.85663,-1.60632 2.68521,-6.74346 4.26213,0.58797 z M 17.000024,469.15036 7.143845,466.7595 l 2.601057,-36.85871 9.986252,0.54723 z m 118.229206,-223.06329 -3.7335,-1.70729 3.24472,-7.40069 3.78528,1.58918 z m -34.86461,149.85514 9.59243,2.83019 -12.208289,43.9076 -9.67659,-2.52749 z"
+       id="path23104-2" />
+    <path
+       class="convex"
+       d="m 19.731154,430.44802 -2.73113,38.70234 m 0,0 -1.5e-5,14.96038 m 0,0 12.82622,37.36502 m 0,0 -4.157462,43.71765 m 0,0 25.653161,7.13277 m 0,0 11.581518,-41.6534 m 0,0 12.584366,-45.26013 m 0,0 12.584359,-45.26014 m 0,0 12.292449,-44.2103 m 0,0 12.87627,-46.30995 m 0,0 28.5969,-102.84984 m 0,0 7.65777,-27.54146 m 0,0 -10.96983,19.32731 m 0,0 -3.2965,7.5188 m 0,0 -3.09071,7.76181 m 0,0 -56.647713,85.28715 m 0,0 -11.145018,20.59674 m 0,0 -24.529256,19.37431 m 0,0 -15.413776,34.29719 m 0,0 -4.576176,7.77287 m 0,0 -0.09543,9.27088"
+       id="path23106-4" />
+    <path
+       class="outer"
+       d="m 9.519835,477.83932 -1.5e-5,-8.57145 7.480204,-0.11751 -9.856179,-2.39086 2.601057,-36.85871 9.986252,0.54723 -4.634708,-0.12052 0.09394,-9.12526 4.636199,-0.0251 -3.85049,-2.34915 2.771586,-4.70766 5.65508,-0.71606 -9.056806,-4.24253 14.824435,-32.98582 9.646147,2.93116 -6.07495,-7.94479 23.698993,-18.71854 6.905213,7.28902 -7.687732,-6.8053 9.195625,-16.99412 9.637125,3.20268 -8.243054,-5.66363 45.123383,-67.93645 19.76738,-11.68707 -3.85663,-1.60632 2.68521,-6.74346 4.26213,0.58797 -3.7335,-1.70729 3.24472,-7.40069 3.78528,1.58918 -5.19596,-11.10414 7.39144,-13.02269 8.77435,4.79952 9.59243,2.83018 -7.57359,27.23875 -9.67661,-2.52747 9.59245,2.83017 -28.51276,102.54714 -9.67659,-2.52747 9.59243,2.83018 -12.7921,46.00726 -9.6766,-2.52749 9.59243,2.83019 -12.208285,43.9076 -9.67659,-2.52749 9.592428,2.83019 -12.500189,44.95743 -9.676598,-2.52748 9.592436,2.83018 -12.500189,44.95743 -9.676613,-2.52748 9.592444,2.83015 -11.497371,41.35072 -9.676591,-2.52747 -2.830177,9.59241 -25.350467,-7.04858 2.527483,-9.6766 -9.940199,-1.10307 4.127696,-43.40488 9.969965,0.7903 -10.954932,-1.11333 -11.27854,-32.8564 9.407252,-3.39529 z"
+       id="path23108-0" />
+    <g
+       id="g23116-2">
+      <path
+         transform="matrix(3e-6,-9.999999,9.999999,3e-6,17.000009,476.63053)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23110-4" />
+      <text
+         transform="translate(26.000009,480.63053)"
+         style="font-size:10px"
+         id="text23114-4"><tspan
+           id="tspan23112-4">1</tspan></text>
+    </g>
+    <text
+       transform="rotate(-90,246.14205,230.48848)"
+       style="font-size:6.73px"
+       id="text23120-2"><tspan
+         id="tspan23118-2">35:1</tspan></text>
+    <g
+       id="g23128-9">
+      <path
+         transform="matrix(4.759019,-8.794983,8.794983,4.759019,69.918294,349.4344)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23122-0" />
+      <text
+         transform="translate(77.833776,357.71751)"
+         style="font-size:10px"
+         id="text23126-8"><tspan
+           id="tspan23124-4">2</tspan></text>
+    </g>
+    <text
+       transform="rotate(-61.581896,326.645,116.9517)"
+       style="font-size:9px"
+       id="text23132-0"><tspan
+         id="tspan23130-6">12:2</tspan></text>
+    <text
+       transform="rotate(-108.9457,190.56321,243.93798)"
+       style="font-size:9px"
+       id="text23136-7"><tspan
+         id="tspan23134-5">7:1</tspan></text>
+    <g
+       id="g23144-4">
+      <path
+         transform="matrix(7.84741,-6.198239,6.198239,7.84741,52.081157,369.41993)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23138-3" />
+      <text
+         transform="translate(57.659571,380.48259)"
+         style="font-size:10px"
+         id="text23142-8"><tspan
+           id="tspan23140-4">3</tspan></text>
+    </g>
+    <text
+       transform="rotate(-38.303278,555.30889,110.62779)"
+       style="font-size:9px"
+       id="text23148-6"><tspan
+         id="tspan23146-4">38:3</tspan></text>
+    <text
+       transform="rotate(-65.799999,320.92266,174.2109)"
+       style="font-size:9px"
+       id="text23152-9"><tspan
+         id="tspan23150-7">29:1</tspan></text>
+    <g
+       id="g23160-5">
+      <path
+         transform="matrix(5.073418,-8.617449,8.617449,5.073418,22.114669,417.29071)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23154-3" />
+      <text
+         transform="translate(29.870373,425.85678)"
+         style="font-size:10px"
+         id="text23158-8"><tspan
+           id="tspan23156-1">4</tspan></text>
+    </g>
+    <text
+       transform="rotate(-59.513063,375.30443,189.70996)"
+       style="font-size:4.06px"
+       id="text23164-3"><tspan
+         id="tspan23162-6">8:4</tspan></text>
+    <text
+       transform="rotate(105.53834,-157.7465,281.21198)"
+       style="font-size:9px"
+       id="text23168-3"><tspan
+         id="tspan23166-0">42:2</tspan></text>
+    <g
+       id="g23176-0">
+      <path
+         transform="matrix(4.936147,-8.696806,8.696806,4.936147,144.01065,228.90463)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23170-8" />
+      <text
+         transform="translate(151.83777,237.34718)"
+         style="font-size:10px"
+         id="text23174-4"><tspan
+           id="tspan23172-9">5</tspan></text>
+    </g>
+    <text
+       transform="rotate(-60.42155,267.0233,-8.3118231)"
+       style="font-size:9px"
+       id="text23180-6"><tspan
+         id="tspan23178-7">51:5</tspan></text>
+    <text
+       transform="rotate(105.53834,-48.848765,198.46165)"
+       style="font-size:9px"
+       id="text23184-0"><tspan
+         id="tspan23182-3">41:2</tspan></text>
+    <text
+       transform="rotate(-84.567618,311.61211,257.31149)"
+       style="font-size:9px"
+       id="text23188-8"><tspan
+         id="tspan23186-6">44:4</tspan></text>
+    <text
+       transform="rotate(-89.410301,224.57683,203.33177)"
+       style="font-size:4.17px"
+       id="text23192-5"><tspan
+         id="tspan23190-7">10:5</tspan></text>
+    <g
+       id="g23200-2">
+      <path
+         transform="matrix(-2.678827,9.634515,-9.634515,-2.678827,145.66668,233.01169)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23194-0" />
+      <text
+         transform="translate(136.99562,234.60075)"
+         style="font-size:10px"
+         id="text23198-3"><tspan
+           id="tspan23196-4">6.</tspan></text>
+    </g>
+    <text
+       transform="rotate(105.53834,-15.014328,172.75118)"
+       style="font-size:9px"
+       id="text23204-5"><tspan
+         id="tspan23202-8">47:6.</tspan></text>
+    <text
+       transform="rotate(105.53834,-87.553308,227.87284)"
+       style="font-size:9px"
+       id="text23208-2"><tspan
+         id="tspan23206-7">45:3</tspan></text>
+    <g
+       id="g23216-0">
+      <path
+         transform="matrix(-9.634514,-2.678833,2.678833,-9.634514,38.495344,568.75979)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23210-3" />
+      <text
+         transform="translate(40.906292,564.08874)"
+         style="font-size:10px"
+         id="text23214-7"><tspan
+           id="tspan23212-8">7</tspan></text>
+    </g>
+    <text
+       transform="rotate(-164.46166,57.924202,282.6539)"
+       style="font-size:9px"
+       id="text23220-8"><tspan
+         id="tspan23218-2">14:7</tspan></text>
+    <text
+       transform="rotate(105.53834,-180.29914,298.3495)"
+       style="font-size:9px"
+       id="text23224-8"><tspan
+         id="tspan23222-2">39:3</tspan></text>
+    <text
+       transform="rotate(105.53834,-134.25796,263.36325)"
+       style="font-size:9px"
+       id="text23228-5"><tspan
+         id="tspan23226-0">53:3</tspan></text>
+    <text
+       transform="rotate(-56.407869,326.66163,52.355528)"
+       style="font-size:9px"
+       id="text23232-0"><tspan
+         id="tspan23230-4">21:4</tspan></text>
+    <g
+       id="g23240-0">
+      <path
+         transform="matrix(3.699454,-9.290534,9.290534,3.699454,133.68388,249.96799)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23234-4" />
+      <text
+         transform="translate(142.04535,257.29751)"
+         style="font-size:10px"
+         id="text23238-6"><tspan
+           id="tspan23236-4">8</tspan></text>
+    </g>
+    <text
+       transform="matrix(0.369945,-0.929053,0.929053,0.369945,132.98531,249.68981)"
+       style="font-size:3.76px"
+       id="text23244-1"><tspan
+         id="tspan23242-9">61:8</tspan></text>
+    <text
+       transform="rotate(-85.963439,249.54666,215.94604)"
+       style="font-size:9px"
+       id="text23248-6"><tspan
+         id="tspan23246-0">10:6.</tspan></text>
+    <g
+       id="g23256-6">
+      <path
+         transform="matrix(4.01536,-9.158433,9.158433,4.01536,136.87748,242.32768)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23250-3" />
+      <text
+         transform="translate(145.12007,249.94152)"
+         style="font-size:10px"
+         id="text23254-6"><tspan
+           id="tspan23252-5">9.</tspan></text>
+    </g>
+    <text
+       transform="rotate(-66.325758,253.29325,16.799932)"
+       style="font-size:3.69px"
+       id="text23260-3"><tspan
+         id="tspan23258-3">36:9.</tspan></text>
+    <text
+       transform="rotate(105.53834,-111.04185,245.72155)"
+       style="font-size:9px"
+       id="text23264-4"><tspan
+         id="tspan23262-2">32:2</tspan></text>
+  </g>
+  <g
+     id="g23494"
+     transform="translate(0.52916667,-2.6458334)">
+    <text
+       transform="translate(225.82493,155.54488)"
+       style="font-size:10px"
+       id="text23270"><tspan
+         id="tspan23268">[15] I 15</tspan></text>
+    <path
+       class="sticker"
+       d="m 202.81876,346.53104 -0.84705,-9.96531 36.61317,-3.69221 1.15965,9.9338 z m 36.92577,-3.72372 -9.62676,-2.71112 2.4653,-9.31206 20.10653,-36.87388 z m -69.20752,59.06842 -9.71825,-2.36226 6.49562,-28.6782 9.78767,2.05584 z m 95.60602,36.69264 9.9653,-0.84703 3.38918,33.60862 -9.93377,1.15964 z m 5.4034,53.58234 9.9653,-0.84704 3.81413,37.8223 -9.9338,1.15964 z m 3.84563,38.1349 10.23972,1.3496 3.35831,27.4452 -7.14773,23.91961 z m -95.6042,-36.67509 -9.96531,0.84705 -4.59388,-45.55478 9.93377,-1.15966 z m -2.68581,-120.71941 -7.04818,-7.09563 25.49731,-26.13518 7.26758,6.87073 z m 79.79192,-26.03998 9.9653,-0.84705 3.8141,37.82231 -9.93377,1.15964 z m -4.20437,-52.94088 11.77952,22.0111 2.18895,27.56295 -9.7641,3.36683 z m 8.05,91.07578 10.20077,2.67966 1.03932,10.30631 -9.2574,6.67514 z m -85.57716,62.7571 -9.9653,0.84707 -4.59391,-45.55483 9.93378,-1.15964 z m 16.84521,72.9577 -9.18014,3.96861 -12.0906,-26.80391 9.05095,-4.25501 z m 30.46192,20.69488 -5.74948,8.18342 -30.20204,-20.51833 5.4896,-8.35997 z m 36.9258,-3.72371 0.84704,9.9653 -36.6132,3.69218 -1.15964,-9.93377 z m 22.44699,45.32802 -27.06379,-32.1171 -4.27486,-8.63236 8.89166,-4.57856 z m -19.12007,-178.35288 9.9653,-0.84704 3.38921,33.60863 -9.93377,1.15964 z m 6.84145,67.84246 10.40375,4.69259 1.0393,10.30617 -9.46036,4.66235 z"
+       id="path23272" />
+    <path
+       class="convex"
+       d="m 259.39537,537.67201 22.44699,45.32802 m 0,0 -6.4503,-52.71441 m 0,0 -3.84563,-38.1349 m 0,0 -1.98269,-19.66111 m 0,0 -3.42071,-33.92123 m 0,0 -3.42074,-33.92123 m 0,0 -1.98269,-19.66111 m 0,0 -3.84563,-38.1349 m 0,0 -4.20437,-52.94088 m 0,0 -12.94507,48.89706 m 0,0 -36.92577,3.72372 m 0,0 -25.71671,26.36008 m 0,0 -6.56504,28.98462 m 0,0 4.62543,45.8674 m 0,0 4.62542,45.86739 m 0,0 12.21979,27.09031 m 0,0 30.46192,20.69488 m 0,0 36.9258,-3.72371"
+       id="path23274" />
+    <path
+       class="outer"
+       d="m 201.97171,336.56573 36.61317,-3.69221 1.15965,9.9338 -9.62676,-2.71112 2.4653,-9.31206 20.10653,-36.87388 11.77952,22.0111 2.18895,27.56295 -9.7641,3.36683 9.9653,-0.84705 3.8141,37.82231 -9.93377,1.15964 10.20077,2.67966 1.03932,10.30631 -9.2574,6.67514 9.9653,-0.84704 3.38921,33.60863 -9.93377,1.15964 9.9653,-0.84703 3.38918,33.60862 -9.93377,1.15964 10.40375,4.69259 1.0393,10.30617 -9.46036,4.66235 9.9653,-0.84704 3.81413,37.8223 -9.9338,1.15964 10.23972,1.3496 3.35831,27.4452 -7.14773,23.91961 -27.06379,-32.1171 -4.27486,-8.63236 8.89166,-4.57856 0.84704,9.9653 -36.6132,3.69218 -1.15964,-9.93377 -5.74948,8.18342 -30.20204,-20.51833 5.4896,-8.35997 -9.18014,3.96861 -12.0906,-26.80391 9.05095,-4.25501 -9.96531,0.84705 -4.59388,-45.55478 9.93377,-1.15966 -9.9653,0.84707 -4.59391,-45.55483 9.93378,-1.15964 -9.71825,-2.36226 6.49562,-28.6782 9.78767,2.05584 -7.04818,-7.09563 25.49731,-26.13518 7.26758,6.87073 z"
+       id="path23276" />
+    <g
+       id="g23284">
+      <path
+         transform="matrix(9.949536,-1.003349,1.003349,9.949536,221.28165,344.66916)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23278" />
+      <text
+         transform="translate(222.18466,357.62374)"
+         style="font-size:10px"
+         id="text23282"><tspan
+           id="tspan23280">1</tspan></text>
+    </g>
+    <text
+       transform="rotate(-5.7584599,3519.2572,-2026.6395)"
+       style="font-size:9px"
+       id="text23288"><tspan
+         id="tspan23286">19:1</tspan></text>
+    <g
+       id="g23296">
+      <path
+         transform="matrix(2.559245,-9.666968,9.666968,2.559245,246.21708,318.35877)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23290" />
+      <text
+         transform="translate(254.91734,324.66211)"
+         style="font-size:10px"
+         id="text23294"><tspan
+           id="tspan23292">2</tspan></text>
+    </g>
+    <text
+       transform="rotate(-75.171603,328.74385,0.13765638)"
+       style="font-size:9px"
+       id="text23300"><tspan
+         id="tspan23298">56:2</tspan></text>
+    <g
+       id="g23308">
+      <path
+         transform="matrix(2.209052,-9.752954,9.752954,2.209052,173.81953,387.38343)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23302" />
+      <text
+         transform="translate(182.59719,393.37156)"
+         style="font-size:10px"
+         id="text23306"><tspan
+           id="tspan23304">3</tspan></text>
+    </g>
+    <text
+       transform="rotate(-77.237802,328.25248,85.795446)"
+       style="font-size:9px"
+       id="text23312"><tspan
+         id="tspan23310">64:3</tspan></text>
+    <g
+       id="g23320">
+      <path
+         transform="matrix(1.00334,9.949539,-9.949539,1.00334,267.85338,455.529)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23314" />
+      <text
+         transform="translate(258.8988,460.432)"
+         style="font-size:10px"
+         id="text23318"><tspan
+           id="tspan23316">4</tspan></text>
+    </g>
+    <text
+       transform="rotate(84.241597,-116.96611,376.77594)"
+       style="font-size:9px"
+       id="text23324"><tspan
+         id="tspan23322">30:4</tspan></text>
+    <g
+       id="g23332">
+      <path
+         transform="matrix(1.003341,9.949537,-9.949537,1.003341,273.46927,511.21817)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23326" />
+      <text
+         transform="translate(264.51469,516.12118)"
+         style="font-size:10px"
+         id="text23330"><tspan
+           id="tspan23328">5</tspan></text>
+    </g>
+    <text
+       transform="rotate(84.241597,-144.9519,407.72586)"
+       style="font-size:9px"
+       id="text23336"><tspan
+         id="tspan23334">48:5</tspan></text>
+    <g
+       id="g23344">
+      <path
+         transform="matrix(1.214569,9.925967,-9.925967,1.214569,278.61721,556.64283)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23338" />
+      <text
+         transform="translate(269.68384,561.73594)"
+         style="font-size:10px"
+         id="text23342"><tspan
+           id="tspan23340">6.</tspan></text>
+    </g>
+    <text
+       transform="rotate(83.023804,-174.12808,436.61515)"
+       style="font-size:9px"
+       id="text23348"><tspan
+         id="tspan23346">18:6.</tspan></text>
+    <g
+       id="g23356">
+      <path
+         transform="matrix(-1.003344,-9.949537,9.949537,-1.003344,177.47514,470.67683)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23350" />
+      <text
+         transform="translate(186.42973,473.77382)"
+         style="font-size:10px"
+         id="text23354"><tspan
+           id="tspan23352">7</tspan></text>
+    </g>
+    <text
+       transform="rotate(-95.758403,300.72356,155.9993)"
+       style="font-size:9px"
+       id="text23360"><tspan
+         id="tspan23358">6.:7</tspan></text>
+    <g
+       id="g23368">
+      <path
+         transform="matrix(6.983178,-7.157879,7.157879,6.983178,189.96039,359.71108)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23362" />
+      <text
+         transform="translate(196.40249,369.99593)"
+         style="font-size:10px"
+         id="text23366"><tspan
+           id="tspan23364">8</tspan></text>
+    </g>
+    <text
+       transform="rotate(-45.707802,519.57994,-44.599888)"
+       style="font-size:9px"
+       id="text23372"><tspan
+         id="tspan23370">1:8</tspan></text>
+    <g
+       id="g23380">
+      <path
+         transform="matrix(1.003341,9.949537,-9.949537,1.003341,258.81678,365.91859)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23374" />
+      <text
+         transform="translate(249.8622,370.82159)"
+         style="font-size:10px"
+         id="text23378"><tspan
+           id="tspan23376">9.</tspan></text>
+    </g>
+    <text
+       transform="rotate(84.241597,-71.933675,326.97389)"
+       style="font-size:9px"
+       id="text23384"><tspan
+         id="tspan23382">27:9.</tspan></text>
+    <g
+       id="g23392">
+      <path
+         transform="matrix(0.791668,9.968614,-9.968614,0.791668,254.79179,320.38068)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23386" />
+      <text
+         transform="translate(245.82003,325.0932)"
+         style="font-size:10px"
+         id="text23390"><tspan
+           id="tspan23388">10</tspan></text>
+    </g>
+    <text
+       transform="rotate(85.459312,-45.046181,299.00472)"
+       style="font-size:9px"
+       id="text23396"><tspan
+         id="tspan23394">52:10</tspan></text>
+    <g
+       id="g23404">
+      <path
+         transform="matrix(1.003347,9.949537,-9.949537,1.003347,261.73094,394.81659)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23398" />
+      <text
+         transform="translate(252.77636,399.71959)"
+         style="font-size:10px"
+         id="text23402"><tspan
+           id="tspan23400">11</tspan></text>
+    </g>
+    <text
+       transform="rotate(84.24154,-86.468082,343.02366)"
+       style="font-size:8.89px"
+       id="text23408"><tspan
+         id="tspan23406">13:11</tspan></text>
+    <g
+       id="g23416">
+      <path
+         transform="matrix(-1.003347,-9.949537,9.949537,-1.003347,172.84972,424.80945)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23410" />
+      <text
+         transform="translate(181.8043,427.90643)"
+         style="font-size:10px"
+         id="text23414"><tspan
+           id="tspan23412">12</tspan></text>
+    </g>
+    <text
+       transform="rotate(-95.75846,277.67334,135.15689)"
+       style="font-size:9px"
+       id="text23420"><tspan
+         id="tspan23418">9.:12</tspan></text>
+    <g
+       id="g23428">
+      <path
+         transform="matrix(-4.111803,-9.115541,9.115541,-4.111803,185.89774,507.15568)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23422" />
+      <text
+         transform="translate(194.10174,507.45506)"
+         style="font-size:10px"
+         id="text23426"><tspan
+           id="tspan23424">13</tspan></text>
+    </g>
+    <text
+       transform="rotate(-114.27899,256.16656,194.43739)"
+       style="font-size:9px"
+       id="text23432"><tspan
+         id="tspan23430">33:13</tspan></text>
+    <g
+       id="g23440">
+      <path
+         transform="matrix(-8.271693,-5.61953,5.61953,-8.271693,207.23862,531.04828)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23434" />
+      <text
+         transform="translate(212.29619,527.60376)"
+         style="font-size:10px"
+         id="text23438"><tspan
+           id="tspan23436">14</tspan></text>
+    </g>
+    <text
+       transform="rotate(-145.80903,185.00551,234.55563)"
+       style="font-size:9px"
+       id="text23444"><tspan
+         id="tspan23442">23:14</tspan></text>
+    <g
+       id="g23452">
+      <path
+         transform="matrix(-9.949537,1.003342,-1.003342,-9.949537,240.93247,539.53385)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23446" />
+      <text
+         transform="translate(240.02946,534.57926)"
+         style="font-size:10px"
+         id="text23450"><tspan
+           id="tspan23448">15</tspan></text>
+    </g>
+    <text
+       transform="rotate(174.2416,106.94386,276.72562)"
+       style="font-size:9px"
+       id="text23456"><tspan
+         id="tspan23454">50:15</tspan></text>
+    <g
+       id="g23464">
+      <path
+         transform="matrix(-4.43778,-8.961368,8.961368,-4.43778,270.61886,560.33602)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23458" />
+      <text
+         transform="translate(278.68408,560.34202)"
+         style="font-size:10px"
+         id="text23462"><tspan
+           id="tspan23460">16</tspan></text>
+    </g>
+    <text
+       transform="rotate(-116.34518,308.64794,197.08291)"
+       style="font-size:9px"
+       id="text23468"><tspan
+         id="tspan23466">57:16</tspan></text>
+    <g
+       id="g23476">
+      <path
+         transform="matrix(1.003344,9.949539,-9.949539,1.003344,264.43267,421.60777)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23470" />
+      <text
+         transform="translate(255.47809,426.51078)"
+         style="font-size:10px"
+         id="text23474"><tspan
+           id="tspan23472">17</tspan></text>
+    </g>
+    <text
+       transform="rotate(84.241597,-99.919473,357.92382)"
+       style="font-size:9px"
+       id="text23480"><tspan
+         id="tspan23478">4:17</tspan></text>
+    <g
+       id="g23488">
+      <path
+         transform="matrix(1.003347,9.949537,-9.949537,1.003347,270.55508,482.32015)"
+         class="arrow"
+         d="M 0,0 1,1 0,0.25 -1,1 Z"
+         id="path23482" />
+      <text
+         transform="translate(261.6005,487.22317)"
+         style="font-size:10px"
+         id="text23486"><tspan
+           id="tspan23484">18</tspan></text>
+    </g>
+    <text
+       transform="rotate(84.24154,-130.4418,391.65481)"
+       style="font-size:8.89px"
+       id="text23492"><tspan
+         id="tspan23490">34:18</tspan></text>
+  </g>
+</svg>
