@@ -1,0 +1,605 @@
+<?xml version='1.0' encoding='UTF-8' standalone='no'?>
+    <svg xmlns='http://www.w3.org/2000/svg' xmlns:xlink='http://www.w3.org/1999/xlink' version='1.1'
+    width='914.00mm' height='3600.00mm' viewBox='0 0 914.00 3600.00'>
+<style type="text/css">
+    path {
+        fill: none;
+        stroke-linecap: butt;
+        stroke-linejoin: bevel;
+        stroke-dasharray: none;
+    }
+    path.outer {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.3;
+        stroke-opacity: 1.0;
+    }
+    path.convex {
+        stroke: #000000;
+        stroke-dasharray: 0.50,1.00;
+        stroke-dashoffset:0;
+        stroke-width:0.2;
+        stroke-opacity: 1.0
+    }
+    path.concave {
+        stroke: #000000;
+        stroke-dasharray: 1.00,0.50,0.20,0.50;
+        stroke-dashoffset: 0;
+        stroke-width: 0.2;
+        stroke-opacity: 1.0
+    }
+    path.freestyle {
+        stroke: #000000;
+        stroke-dasharray: none;
+        stroke-dashoffset: 0;
+        stroke-width: 0.2;
+        stroke-opacity: 1.0
+    }
+    path.outer_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.5
+    }
+    path.inner_background {
+        stroke: #ffffff;
+        stroke-opacity: 1.0;
+        stroke-width: 0.2
+    }
+    path.sticker {
+        fill: #e5e5e5;
+        stroke: none;
+        fill-opacity: 1.0;
+    }
+    path.arrow {
+        fill: #000000;
+    }
+    text {
+        font-style: normal;
+        fill: #000000;
+        fill-opacity: 1.0;
+        stroke: none;
+    }
+    text, tspan {
+        text-anchor:middle;
+    }
+    </style>
+<g>
+<g>
+<text transform='translate(93.95902324467897 3254.1782604530454)' style='font-size:5.00'><tspan>[13] I 13</tspan></text>
+<path class='convex' d=' M 19.082193 211.890812 L 116.813381 194.699640 '/>
+<path class='concave' d=' M 53.130274 405.451412 L 150.861462 388.260002
+M 60.336065 446.415539 L 158.067231 429.224367
+M 68.086644 490.476961 L 165.817817 473.285790
+M 168.672760 427.358742 L 158.067231 429.224367
+M 165.817817 473.285790 L 176.423331 471.420164 '/>
+<path class='outer' d=' M 116.813381 194.699640 L 150.861462 388.260002 L 161.466976 386.394377 L 168.672760 427.358742 L 176.423331 471.420164 L 182.918047 508.341904 L 172.312518 510.207529 L 74.581352 527.398939 L 11.494746 570.999737 L 5.000043 534.077997 L 68.086644 490.476961 L 60.336065 446.415539 L 53.130274 405.451412 L 19.082193 211.890812 L 8.267512 150.410290 L 5.000000 131.834860 L 102.731173 114.643450 L 105.998685 133.218880 Z '/>
+<text transform='matrix(0.984879 -0.173244 0.173244 0.984879 54.905077 129.148359)' style='font-size:5.00'><tspan>2</tspan></text>
+<text transform='matrix(-0.173244 -0.984879 0.984879 -0.173244 62.642452 424.893971)' style='font-size:5.00'><tspan>3</tspan></text>
+<text transform='matrix(0.173244 0.984879 -0.984879 0.173244 166.638781 450.428839)' style='font-size:5.00'><tspan>14</tspan></text>
+<text transform='matrix(0.173244 0.984879 -0.984879 0.173244 159.160604 407.915945)' style='font-size:5.00'><tspan>28</tspan></text>
+<text transform='matrix(-0.173244 -0.984879 0.984879 -0.173244 42.015512 307.631607)' style='font-size:5.00'><tspan>29</tspan></text>
+<text transform='matrix(0.984879 -0.173244 0.173244 0.984879 157.203694 393.236513)' style='font-size:5.00'><tspan>31</tspan></text>
+<text transform='matrix(-0.173244 -0.984879 0.984879 -0.173244 12.543027 140.083189)' style='font-size:5.00'><tspan>35</tspan></text>
+<text transform='matrix(-0.173244 -0.984879 0.984879 -0.173244 19.584124 180.111046)' style='font-size:5.00'><tspan>36</tspan></text>
+<text transform='matrix(-0.984879 0.173245 -0.173245 -0.984879 176.575814 503.365393)' style='font-size:5.00'><tspan>47</tspan></text>
+<text transform='matrix(0.822646 -0.568554 0.568554 0.822646 39.954667 517.213459)' style='font-size:5.00'><tspan>57</tspan></text>
+<text transform='matrix(-0.173244 -0.984879 0.984879 -0.173244 14.156668 551.499481)' style='font-size:5.00'><tspan>59</tspan></text>
+<text transform='matrix(-0.822646 0.568554 -0.568554 -0.822646 39.626726 544.263477)' style='font-size:5.00'><tspan>63</tspan></text>
+<text transform='matrix(-0.984879 0.173244 -0.173244 -0.984879 122.407471 512.893791)' style='font-size:5.00'><tspan>70</tspan></text>
+<text transform='matrix(0.173244 0.984879 -0.984879 0.173244 105.496761 164.998646)' style='font-size:5.00'><tspan>74</tspan></text>
+<text transform='matrix(0.173244 0.984879 -0.984879 0.173244 98.455657 124.970551)' style='font-size:5.00'><tspan>75</tspan></text>
+<text transform='matrix(0.173244 0.984879 -0.984879 0.173244 127.928142 292.519207)' style='font-size:5.00'><tspan>76</tspan></text>
+<text transform='matrix(0.173245 0.984879 -0.984879 0.173245 173.761417 490.920420)' style='font-size:5.00'><tspan>84</tspan></text>
+<text transform='matrix(-0.173244 -0.984879 0.984879 -0.173244 70.120630 467.406864)' style='font-size:5.00'><tspan>86.</tspan></text>
+</g>
+<g>
+<text transform='translate(175.16754288226366 2651.909568347037)' style='font-size:5.00'><tspan>[17] I 17</tspan></text>
+<path class='convex' d=' M 199.491476 899.695511 L 133.468200 968.427773 '/>
+<path class='outer' d=' M 132.164647 992.294426 L 133.468200 968.427773 L 132.164647 886.241789 L 199.491476 899.695511 L 218.170439 902.162905 L 213.921090 979.961987 L 212.611501 1003.938789 L 193.945338 1001.237030 Z '/>
+<text transform='matrix(-0.054538 0.998512 -0.998512 -0.054538 207.275216 991.623278)' style='font-size:5.00'><tspan>6.</tspan></text>
+<text transform='matrix(0.991387 0.130962 -0.130962 0.991387 208.045189 906.877632)' style='font-size:5.00'><tspan>9.</tspan></text>
+<text transform='matrix(-0.054538 0.998512 -0.998512 -0.054538 210.054700 940.735216)' style='font-size:5.00'><tspan>25</tspan></text>
+<text transform='matrix(0.980614 0.195952 -0.195952 0.980614 164.652352 898.852224)' style='font-size:5.00'><tspan>33</tspan></text>
+<text transform='matrix(-0.989686 -0.143252 0.143252 -0.989686 204.137926 996.649857)' style='font-size:5.00'><tspan>35</tspan></text>
+<text transform='matrix(-0.989686 -0.143253 0.143253 -0.989686 163.914506 990.827675)' style='font-size:5.00'><tspan>36</tspan></text>
+<text transform='matrix(0.054537 -0.998512 0.998512 0.054537 138.807495 980.688448)' style='font-size:5.00'><tspan>40</tspan></text>
+<text transform='matrix(-0.015859 -0.999874 0.999874 -0.015859 138.815676 927.239771)' style='font-size:5.00'><tspan>41</tspan></text>
+</g>
+<g>
+<text transform='translate(159.23175308853388 2178.908263333142)' style='font-size:5.00'><tspan>[15] I 15</tspan></text>
+<path class='outer' d=' M 104.231757 1496.037598 L 104.231750 1300.611372 L 104.231742 1259.183521 L 203.463395 1259.183521 L 214.231734 1259.183521 L 214.231734 1300.611372 L 214.231764 1496.037598 L 214.231764 1558.214064 L 214.231764 1576.999779 L 203.463410 1576.999779 L 104.231757 1576.999779 L 104.231757 1558.214064 Z '/>
+</g>
+<g>
+<text transform='translate(147.53190148621798 1811.860186047852)' style='font-size:5.00'><tspan>[6.] I 6</tspan></text>
+<path class='convex' d=' M 123.017495 1874.756570 L 185.193961 1842.173929
+M 185.193961 1728.105540 L 123.017509 1695.522900 '/>
+<path class='outer' d=' M 185.193961 1785.139675 L 185.193961 1810.919876 L 185.193961 1842.173929 L 190.832053 1884.421225 L 123.017495 1874.756570 L 104.231750 1875.087137 L 104.231757 1843.165393 L 104.231750 1811.183210 L 104.231750 1785.139675 L 104.231779 1759.096260 L 104.231750 1727.114077 L 104.231742 1695.192332 L 123.017509 1695.522900 L 190.832053 1685.858126 L 185.193961 1728.105540 L 185.193961 1759.359594 Z '/>
+<text transform='matrix(-0.000001 -1.000000 1.000000 -0.000001 110.231762 1743.105168)' style='font-size:5.00'><tspan>12</tspan></text>
+<text transform='matrix(0.000001 -1.000000 1.000000 0.000001 110.231762 1772.117968)' style='font-size:5.00'><tspan>18</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 110.231747 1711.153145)' style='font-size:5.00'><tspan>19</tspan></text>
+<text transform='matrix(0.999845 0.017597 -0.017597 0.999845 113.519047 1701.356645)' style='font-size:5.00'><tspan>21</tspan></text>
+<text transform='matrix(0.989996 -0.141092 0.141092 0.989996 157.771324 1696.630592)' style='font-size:5.00'><tspan>34</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 179.193978 1743.732567)' style='font-size:5.00'><tspan>42</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 179.193948 1772.249694)' style='font-size:5.00'><tspan>43</tspan></text>
+<text transform='matrix(-0.132282 0.991212 -0.991212 -0.132282 182.065730 1706.188197)' style='font-size:5.00'><tspan>44</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 110.231754 1827.174301)' style='font-size:5.00'><tspan>102</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 110.231754 1798.161502)' style='font-size:5.00'><tspan>108</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 110.231754 1859.126325)' style='font-size:5.00'><tspan>109</tspan></text>
+<text transform='matrix(-0.999845 0.017597 -0.017597 -0.999845 113.519040 1868.922825)' style='font-size:5.00'><tspan>111</tspan></text>
+<text transform='matrix(-0.989996 -0.141091 0.141091 -0.989996 157.771324 1873.648877)' style='font-size:5.00'><tspan>124</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 179.193963 1826.546903)' style='font-size:5.00'><tspan>132</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 179.193963 1798.029776)' style='font-size:5.00'><tspan>133</tspan></text>
+<text transform='matrix(0.132282 0.991212 -0.991212 0.132282 182.065730 1864.091272)' style='font-size:5.00'><tspan>134</tspan></text>
+</g>
+<g>
+<text transform='translate(79.35071084648371 2715.6726168468595)' style='font-size:5.00'><tspan>[18] I 18</tspan></text>
+<path class='convex' d=' M 50.311842 761.177416 L 50.577798 957.676048
+M 50.577798 957.676048 L 105.542173 962.517138
+M 50.577798 957.676048 L 50.038316 999.259586 '/>
+<path class='concave' d=' M 105.542173 962.517138 L 50.311842 761.177416 '/>
+<path class='outer' d=' M 50.311842 761.177416 L 132.164647 768.684740 L 105.542173 962.517138 L 103.530009 1003.938789 L 50.038316 999.259586 L 26.536771 996.836300 L 27.118766 955.247040 L 26.536771 758.715744 Z '/>
+<text transform='matrix(0.013993 -0.999902 0.999902 0.013993 32.827185 976.125593)' style='font-size:5.00'><tspan>93</tspan></text>
+<text transform='matrix(-0.996196 -0.087142 0.087142 -0.996196 77.307020 995.622034)' style='font-size:5.00'><tspan>97</tspan></text>
+<text transform='matrix(-0.994725 -0.102577 0.102577 -0.994725 38.903006 992.079611)' style='font-size:5.00'><tspan>112</tspan></text>
+<text transform='matrix(-0.002961 -0.999996 0.999996 -0.002961 32.827743 856.963511)' style='font-size:5.00'><tspan>119</tspan></text>
+<text transform='matrix(-0.136070 0.990699 -0.990699 -0.136070 112.909217 864.784594)' style='font-size:5.00'><tspan>128</tspan></text>
+<text transform='matrix(0.994682 0.102993 -0.102993 0.994682 37.806348 765.914793)' style='font-size:5.00'><tspan>130</tspan></text>
+<text transform='matrix(0.995820 0.091333 -0.091333 0.995820 90.690245 770.906086)' style='font-size:5.00'><tspan>131</tspan></text>
+<text transform='matrix(-0.048520 0.998822 -0.998822 -0.048520 98.543157 982.936974)' style='font-size:5.00'><tspan>135</tspan></text>
+</g>
+<g>
+<text transform='translate(157.0438640192151 1495.9676014259458)' style='font-size:5.00'><tspan>[19] I 19</tspan></text>
+<path class='convex' d=' M 127.732490 1983.103986 L 128.271949 2024.686213
+M 128.271949 2024.686213 L 183.234458 2019.845243
+M 128.271949 2024.686213 L 128.006008 2221.177931 '/>
+<path class='concave' d=' M 128.006008 2221.177931 L 183.234458 2019.845243 '/>
+<path class='outer' d=' M 183.234458 2019.845243 L 209.855978 2213.670964 L 128.006008 2221.177931 L 104.231742 2223.639603 L 104.813759 2027.115102 L 104.231742 1985.527392 L 127.732490 1983.103986 L 181.222369 1978.424902 Z '/>
+<text transform='matrix(-0.013993 -0.999902 0.999902 -0.013993 110.522163 2006.237264)' style='font-size:5.00'><tspan>3</tspan></text>
+<text transform='matrix(0.996196 -0.087142 0.087142 0.996196 155.000274 1986.741657)' style='font-size:5.00'><tspan>7</tspan></text>
+<text transform='matrix(0.994725 -0.102576 0.102576 0.994725 116.597575 1990.284081)' style='font-size:5.00'><tspan>22</tspan></text>
+<text transform='matrix(0.002962 -0.999996 0.999996 0.002962 110.522722 2125.395174)' style='font-size:5.00'><tspan>29</tspan></text>
+<text transform='matrix(0.136070 0.990699 -0.990699 0.136070 190.601026 2117.574568)' style='font-size:5.00'><tspan>38</tspan></text>
+<text transform='matrix(-0.994682 0.102994 -0.102994 -0.994682 115.500917 2216.440673)' style='font-size:5.00'><tspan>40</tspan></text>
+<text transform='matrix(-0.995820 0.091333 -0.091333 -0.995820 168.383007 2211.449499)' style='font-size:5.00'><tspan>41</tspan></text>
+<text transform='matrix(0.048520 0.998822 -0.998822 0.048520 176.235472 1999.426241)' style='font-size:5.00'><tspan>45</tspan></text>
+</g>
+<g>
+<text transform='translate(142.58281607180834 1190.6801657751203)' style='font-size:5.00'><tspan>[7] I 7</tspan></text>
+<path class='convex' d=' M 105.980081 2416.938777 L 128.220153 2416.730518
+M 128.220153 2416.730518 L 172.175561 2416.318770
+M 106.331167 2454.425807 L 128.571254 2454.217548
+M 128.571254 2454.217548 L 172.526662 2453.805800
+M 127.758679 2575.538511 L 173.244839 2530.489917 '/>
+<path class='concave' d=' M 105.261889 2340.254779 L 127.501962 2340.046520
+M 127.501962 2340.046520 L 171.457385 2339.634771
+M 107.049358 2531.109805 L 129.289431 2530.901547
+M 129.289431 2530.901547 L 173.244839 2530.489917 '/>
+<path class='outer' d=' M 104.231787 2575.758929 L 107.049358 2531.109805 L 106.331167 2454.425807 L 105.980081 2416.938777 L 105.261889 2340.254779 L 104.332578 2241.027470 L 104.231742 2230.259533 L 126.471815 2230.051274 L 170.427238 2229.639645 L 170.528059 2240.407462 L 171.457385 2339.634771 L 172.175561 2416.318770 L 172.526662 2453.805800 L 173.244839 2530.489917 L 180.933897 2582.999821 L 127.758679 2575.538511 Z '/>
+<text transform='matrix(-0.990299 -0.138955 0.138955 -0.990299 155.180012 2573.327417)' style='font-size:5.00'><tspan>7</tspan></text>
+<text transform='matrix(-0.999956 0.009367 -0.009367 -0.999956 115.939033 2569.648976)' style='font-size:5.00'><tspan>22</tspan></text>
+<text transform='matrix(-0.009365 -0.999956 0.999956 -0.009365 110.281897 2235.587235)' style='font-size:5.00'><tspan>47</tspan></text>
+<text transform='matrix(0.999956 -0.009365 0.009365 0.999956 115.407971 2236.155148)' style='font-size:5.00'><tspan>48</tspan></text>
+<text transform='matrix(0.009363 0.999956 -0.999956 0.009363 164.477919 2235.079761)' style='font-size:5.00'><tspan>49</tspan></text>
+<text transform='matrix(0.999956 -0.009365 0.009365 0.999956 148.505722 2235.845204)' style='font-size:5.00'><tspan>54</tspan></text>
+<text transform='matrix(-0.009365 -0.999956 0.999956 -0.009365 112.689984 2492.711659)' style='font-size:5.00'><tspan>57</tspan></text>
+<text transform='matrix(0.009365 0.999956 -0.999956 0.009365 166.351383 2435.118551)' style='font-size:5.00'><tspan>58</tspan></text>
+<text transform='matrix(-0.009365 -0.999956 0.999956 -0.009365 112.155345 2435.626145)' style='font-size:5.00'><tspan>59</tspan></text>
+<text transform='matrix(0.009365 0.999956 -0.999956 0.009365 166.886036 2492.204065)' style='font-size:5.00'><tspan>62</tspan></text>
+<text transform='matrix(-0.009365 -0.999956 0.999956 -0.009365 111.620721 2378.540511)' style='font-size:5.00'><tspan>63</tspan></text>
+<text transform='matrix(0.009365 0.999956 -0.999956 0.009365 165.816729 2378.033037)' style='font-size:5.00'><tspan>64</tspan></text>
+<text transform='matrix(0.144885 0.989449 -0.989449 0.144885 171.152686 2557.614203)' style='font-size:5.00'><tspan>68.</tspan></text>
+<text transform='matrix(-0.009365 -0.999956 0.999956 -0.009365 110.796970 2290.584917)' style='font-size:5.00'><tspan>70</tspan></text>
+<text transform='matrix(0.009365 0.999956 -0.999956 0.009365 164.992993 2290.077324)' style='font-size:5.00'><tspan>71</tspan></text>
+<text transform='matrix(0.062979 -0.998015 0.998015 0.062979 111.628664 2553.812261)' style='font-size:5.00'><tspan>86.</tspan></text>
+</g>
+<g>
+<text transform='translate(204.96289897710085 508.00002086907625)' style='font-size:5.00'><tspan>[1] I 1</tspan></text>
+<path class='outer' d=' M 42.488744 2705.193038 L 87.109451 2704.653735 L 87.109451 2689.658935 L 42.488744 2690.198178 L 5.000015 2690.198178 L 5.000022 2646.240945 L 5.000022 2623.999829 L 42.488736 2623.999829 L 87.109451 2620.764191 L 128.537376 2617.059763 L 323.963557 2596.239443 L 386.140023 2590.679522 L 404.925738 2588.999863 L 404.925768 2613.012428 L 404.925738 2690.927441 L 404.925798 2999.052460 L 404.925768 3030.974205 L 404.925798 3062.956388 L 404.925798 3088.999863 L 404.925768 3115.043367 L 404.925738 3147.025551 L 404.925738 3178.947265 L 404.925738 3487.072299 L 404.925709 3564.987308 L 404.925709 3588.999904 L 386.139994 3587.320096 L 323.963557 3581.760301 L 128.537362 3560.940030 L 87.109421 3557.235519 L 42.488721 3553.999889 L 5.000007 3553.999900 L 5.000007 3531.758825 L 5.000000 3487.801517 L 42.488721 3487.801517 L 87.109421 3488.340790 L 87.109421 3473.345975 L 42.488729 3472.806658 L 5.000022 3472.806673 L 5.000037 3172.650988 L 5.000045 3142.675276 L 42.488729 3142.675306 L 87.109436 3142.675276 L 87.109436 3113.887812 L 87.109526 3088.999863 L 87.109511 3064.111884 L 87.109481 3035.324450 L 42.488744 3035.324509 L 5.000045 3035.324509 L 5.000045 3005.348737 L 5.000022 2705.193098 Z '/>
+<text transform='matrix(0.996026 -0.089061 0.089061 0.996026 396.067237 2595.815952)' style='font-size:5.00'><tspan>1</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 398.925816 3075.978155)' style='font-size:5.00'><tspan>5</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 398.925786 3015.013213)' style='font-size:5.00'><tspan>10</tspan></text>
+<text transform='matrix(-0.000001 -1.000000 1.000000 -0.000001 93.109493 3049.718197)' style='font-size:5.00'><tspan>11</tspan></text>
+<text transform='matrix(0.997381 -0.072324 0.072324 0.997381 65.233027 2628.366287)' style='font-size:5.00'><tspan>14</tspan></text>
+<text transform='matrix(0.000001 1.000000 -1.000000 0.000001 398.925786 3046.965237)' style='font-size:5.00'><tspan>16</tspan></text>
+<text transform='matrix(-0.000001 -1.000000 1.000000 -0.000001 93.109508 3076.555843)' style='font-size:5.00'><tspan>17</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 398.925786 2844.989951)' style='font-size:5.00'><tspan>20</tspan></text>
+<text transform='matrix(0.000001 1.000000 -1.000000 0.000001 398.925726 2601.006086)' style='font-size:5.00'><tspan>23</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 93.109448 2697.156365)' style='font-size:5.00'><tspan>24</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 398.925756 2651.969965)' style='font-size:5.00'><tspan>27</tspan></text>
+<text transform='matrix(0.996026 -0.089064 0.089064 0.996026 108.357792 2624.888117)' style='font-size:5.00'><tspan>28</tspan></text>
+<text transform='matrix(0.996026 -0.089065 0.089065 0.996026 355.586176 2599.435682)' style='font-size:5.00'><tspan>32</tspan></text>
+<text transform='matrix(0.994373 -0.105938 0.105938 0.994373 226.886098 2612.615819)' style='font-size:5.00'><tspan>37</tspan></text>
+<text transform='matrix(-1.000000 -0.000001 0.000001 -1.000000 23.744379 2684.198136)' style='font-size:5.00'><tspan>46</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000027 2635.120387)' style='font-size:5.00'><tspan>48</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000027 2855.270977)' style='font-size:5.00'><tspan>50</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000042 3020.336623)' style='font-size:5.00'><tspan>53</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000019 2668.219562)' style='font-size:5.00'><tspan>54</tspan></text>
+<text transform='matrix(-1.000000 -0.000000 0.000000 -1.000000 23.744402 3029.324467)' style='font-size:5.00'><tspan>55</tspan></text>
+<text transform='matrix(1.000000 -0.000001 0.000001 1.000000 23.744387 2711.193140)' style='font-size:5.00'><tspan>56</tspan></text>
+<text transform='matrix(1.000000 -0.000001 0.000001 1.000000 23.744387 2629.999871)' style='font-size:5.00'><tspan>84</tspan></text>
+<text transform='matrix(0.999927 -0.012086 0.012086 0.999927 64.871614 2710.923011)' style='font-size:5.00'><tspan>85</tspan></text>
+<text transform='matrix(-1.000000 0.000001 -0.000001 -1.000000 64.799105 3029.324527)' style='font-size:5.00'><tspan>87</tspan></text>
+<text transform='matrix(-0.999927 0.012084 -0.012084 -0.999927 64.726596 2683.928962)' style='font-size:5.00'><tspan>89.</tspan></text>
+<text transform='matrix(-0.996026 -0.089064 0.089064 -0.996026 396.067237 3582.183844)' style='font-size:5.00'><tspan>91</tspan></text>
+<text transform='matrix(-0.000001 1.000000 -1.000000 -0.000001 398.925756 3102.021630)' style='font-size:5.00'><tspan>95</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 398.925696 3162.986423)' style='font-size:5.00'><tspan>100</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 93.109434 3128.281559)' style='font-size:5.00'><tspan>101</tspan></text>
+<text transform='matrix(-0.997381 -0.072324 0.072324 -0.997381 65.233012 3549.633416)' style='font-size:5.00'><tspan>104</tspan></text>
+<text transform='matrix(-0.000001 1.000000 -1.000000 -0.000001 398.925756 3131.034459)' style='font-size:5.00'><tspan>106</tspan></text>
+<text transform='matrix(0.000004 -1.000000 1.000000 0.000004 93.109478 3101.443852)' style='font-size:5.00'><tspan>107</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 398.925756 3333.009775)' style='font-size:5.00'><tspan>110</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 398.925726 3576.993610)' style='font-size:5.00'><tspan>113</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 93.109419 3480.843375)' style='font-size:5.00'><tspan>114</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 398.925756 3526.029806)' style='font-size:5.00'><tspan>117</tspan></text>
+<text transform='matrix(-0.996026 -0.089065 0.089065 -0.996026 108.357792 3553.111619)' style='font-size:5.00'><tspan>118</tspan></text>
+<text transform='matrix(-0.996026 -0.089064 0.089064 -0.996026 355.586176 3578.564039)' style='font-size:5.00'><tspan>122</tspan></text>
+<text transform='matrix(-0.994373 -0.105938 0.105938 -0.994373 226.886098 3565.383925)' style='font-size:5.00'><tspan>127</tspan></text>
+<text transform='matrix(1.000000 -0.000000 0.000000 1.000000 23.744364 3493.801515)' style='font-size:5.00'><tspan>136</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000012 3542.879361)' style='font-size:5.00'><tspan>138</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000027 3322.728808)' style='font-size:5.00'><tspan>140</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000042 3157.663162)' style='font-size:5.00'><tspan>143</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000005 3509.780179)' style='font-size:5.00'><tspan>144</tspan></text>
+<text transform='matrix(1.000000 0.000000 -0.000000 1.000000 23.744394 3148.675258)' style='font-size:5.00'><tspan>145</tspan></text>
+<text transform='matrix(-1.000000 0.000000 -0.000000 -1.000000 23.744372 3466.806660)' style='font-size:5.00'><tspan>146</tspan></text>
+<text transform='matrix(-1.000000 0.000000 -0.000000 -1.000000 23.744364 3547.999891)' style='font-size:5.00'><tspan>174</tspan></text>
+<text transform='matrix(-0.999927 -0.012086 0.012086 -0.999927 64.871599 3467.076759)' style='font-size:5.00'><tspan>175</tspan></text>
+<text transform='matrix(1.000000 -0.000000 0.000000 1.000000 64.799090 3148.675288)' style='font-size:5.00'><tspan>177</tspan></text>
+<text transform='matrix(0.999927 0.012085 -0.012085 0.999927 64.726566 3494.070719)' style='font-size:5.00'><tspan>179</tspan></text>
+</g>
+<g>
+<text transform='translate(54.61587104946375 1514.0000628307462)' style='font-size:5.00'><tspan>[9.] I 9</tspan></text>
+<path class='outer' d=' M 5.000048 2024.974222 L 5.000052 1993.052478 L 5.000078 1684.927578 L 5.000086 1607.012386 L 5.000089 1582.999821 L 104.231742 1582.999821 L 104.231735 1607.012386 L 104.231735 1684.927578 L 104.231705 1993.052478 L 104.231705 2024.974222 L 104.231705 2056.956406 L 104.231698 2082.999821 L 104.231690 2109.043355 L 104.231690 2141.025539 L 104.231690 2172.947283 L 104.231660 2481.072302 L 104.231660 2558.987255 L 104.231653 2582.999821 L 5.000000 2582.999821 L 5.000004 2558.987255 L 5.000011 2481.072302 L 5.000037 2172.947283 L 5.000041 2141.025539 L 5.000041 2109.043355 L 5.000045 2082.999821 L 5.000048 2056.956406 Z '/>
+<text transform='matrix(1.000000 0.000000 0.000000 1.000000 54.615916 1588.999863)' style='font-size:5.00'><tspan>2</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 98.231738 1595.006104)' style='font-size:5.00'><tspan>6.</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 98.231723 1838.990088)' style='font-size:5.00'><tspan>8</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 98.231708 2040.965314)' style='font-size:5.00'><tspan>12</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 98.231708 2069.978113)' style='font-size:5.00'><tspan>18</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 98.231708 2009.013291)' style='font-size:5.00'><tspan>19</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 98.231738 1645.969982)' style='font-size:5.00'><tspan>25</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000050 2009.013291)' style='font-size:5.00'><tspan>77</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000047 2069.978113)' style='font-size:5.00'><tspan>78</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000048 2040.965314)' style='font-size:5.00'><tspan>80</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000065 1838.990088)' style='font-size:5.00'><tspan>81</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000082 1645.969982)' style='font-size:5.00'><tspan>82</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000087 1595.006104)' style='font-size:5.00'><tspan>83</tspan></text>
+<text transform='matrix(-1.000000 0.000000 0.000000 -1.000000 54.615826 2576.999898)' style='font-size:5.00'><tspan>92</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 98.231663 2570.993538)' style='font-size:5.00'><tspan>96.</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 98.231678 2327.009792)' style='font-size:5.00'><tspan>98.</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 98.231693 2125.034447)' style='font-size:5.00'><tspan>102</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 98.231693 2096.021648)' style='font-size:5.00'><tspan>108</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 98.231693 2156.986351)' style='font-size:5.00'><tspan>109</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 98.231663 2520.029779)' style='font-size:5.00'><tspan>115</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000039 2156.986351)' style='font-size:5.00'><tspan>167</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000043 2096.021528)' style='font-size:5.00'><tspan>168</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000041 2125.034447)' style='font-size:5.00'><tspan>170</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000024 2327.009792)' style='font-size:5.00'><tspan>171</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000007 2520.029779)' style='font-size:5.00'><tspan>172</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000002 2570.993538)' style='font-size:5.00'><tspan>173</tspan></text>
+</g>
+<g>
+<text transform='translate(105.61156179755926 2465.438728220761)' style='font-size:5.00'><tspan>[12] I 12</tspan></text>
+<path class='convex' d=' M 85.454677 1079.439755 L 184.686352 1079.439755
+M 195.454706 1079.439755 L 184.686352 1079.439755 '/>
+<path class='concave' d=' M 187.498336 1139.058704 L 114.179668 1139.058704
+M 85.454670 1183.682556 L 184.686338 1183.682556
+M 195.454677 1139.058704 L 187.498336 1139.058704
+M 184.686338 1183.682556 L 195.454677 1183.682556
+M 195.454692 1124.063845 L 187.498351 1124.063845
+M 187.498351 1124.063845 L 114.179675 1124.063845 '/>
+<path class='outer' d=' M 15.768423 1047.427530 L 15.768438 1009.938831 L 85.454700 1041.951056 L 184.686367 1041.951056 L 195.454721 1041.951056 L 195.454706 1079.439755 L 195.454692 1124.063845 L 195.454677 1139.058704 L 195.454677 1183.682556 L 195.454692 1221.171255 L 184.686338 1221.171255 L 85.454685 1221.171255 L 15.768423 1253.183479 L 15.768408 1215.694780 L 85.454670 1183.682556 L 114.179668 1139.058704 L 114.179675 1124.063845 L 85.454677 1079.439755 Z '/>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 189.454679 1131.561155)' style='font-size:5.00'><tspan>24</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 120.179673 1131.561155)' style='font-size:5.00'><tspan>26</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 189.454709 1060.695524)' style='font-size:5.00'><tspan>46</tspan></text>
+<text transform='matrix(1.000000 0.000001 -0.000001 1.000000 190.070529 1047.951098)' style='font-size:5.00'><tspan>49</tspan></text>
+<text transform='matrix(-1.000000 0.000001 -0.000001 -1.000000 190.070500 1215.171213)' style='font-size:5.00'><tspan>51</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 189.454679 1202.427025)' style='font-size:5.00'><tspan>56</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 21.768435 1028.683300)' style='font-size:5.00'><tspan>58</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 21.768420 1234.439249)' style='font-size:5.00'><tspan>61</tspan></text>
+<text transform='matrix(-0.908705 -0.417438 0.417438 -0.908705 53.116185 1057.981367)' style='font-size:5.00'><tspan>62</tspan></text>
+<text transform='matrix(0.908705 0.417438 -0.417438 0.908705 48.106936 1031.397219)' style='font-size:5.00'><tspan>64</tspan></text>
+<text transform='matrix(0.908705 -0.417438 0.417438 0.908705 53.116170 1205.140944)' style='font-size:5.00'><tspan>65</tspan></text>
+<text transform='matrix(-0.908705 0.417438 -0.417438 -0.908705 48.106921 1231.725092)' style='font-size:5.00'><tspan>66.</tspan></text>
+<text transform='matrix(-0.541266 -0.840851 0.840851 -0.541266 104.862285 1098.504181)' style='font-size:5.00'><tspan>68.</tspan></text>
+<text transform='matrix(1.000000 0.000000 -0.000000 1.000000 135.070537 1047.951098)' style='font-size:5.00'><tspan>71</tspan></text>
+<text transform='matrix(-1.000000 0.000000 -0.000000 -1.000000 135.070507 1215.171213)' style='font-size:5.00'><tspan>72</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 189.454679 1161.370630)' style='font-size:5.00'><tspan>85</tspan></text>
+<text transform='matrix(0.541266 -0.840851 0.840851 0.541266 104.862277 1164.618130)' style='font-size:5.00'><tspan>88</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 189.454694 1101.751919)' style='font-size:5.00'><tspan>89.</tspan></text>
+</g>
+<g>
+<text transform='translate(21.152589470148087 2158.9087592437863)' style='font-size:5.00'><tspan>[20] I 20</tspan></text>
+<path class='convex' d=' M 15.768413 1380.467768 L 26.536760 1380.467768 '/>
+<path class='outer' d=' M 15.768408 1318.043108 L 15.768409 1299.182530 L 26.536756 1299.182530 L 26.536754 1318.043108 L 26.536760 1380.467768 L 26.536771 1576.999779 L 15.768425 1576.999779 L 15.768413 1380.467768 Z '/>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 20.536755 1308.612938)' style='font-size:5.00'><tspan>1</tspan></text>
+<text transform='matrix(-1.000000 0.000000 -0.000000 -1.000000 21.152598 1570.999737)' style='font-size:5.00'><tspan>31</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 20.536757 1349.255438)' style='font-size:5.00'><tspan>32</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 20.536765 1478.733654)' style='font-size:5.00'><tspan>37</tspan></text>
+<text transform='matrix(1.000000 -0.000000 0.000000 1.000000 21.152583 1305.182572)' style='font-size:5.00'><tspan>69.</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 21.768411 1349.255438)' style='font-size:5.00'><tspan>74</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 21.768409 1308.612938)' style='font-size:5.00'><tspan>75</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 21.768418 1478.733654)' style='font-size:5.00'><tspan>76</tspan></text>
+</g>
+<g>
+<text transform='translate(10.384203866124153 2520.000104792416)' style='font-size:5.00'><tspan>[10] I 10</tspan></text>
+<path class='outer' d=' M 15.768382 1135.025377 L 15.768384 1166.947241 L 15.768404 1475.072022 L 15.768408 1552.987213 L 15.768408 1576.999779 L 5.000061 1576.999779 L 5.000061 1552.987213 L 5.000058 1475.072022 L 5.000037 1166.947241 L 5.000035 1135.025377 L 5.000031 1103.043194 L 5.000031 1076.999779 L 5.000031 1050.956364 L 5.000026 1018.974180 L 5.000024 987.052317 L 5.000005 678.927536 L 5.000000 601.012344 L 5.000000 576.999779 L 15.768346 576.999779 L 15.768346 601.012344 L 15.768351 678.927536 L 15.768371 987.052317 L 15.768372 1018.974180 L 15.768377 1050.956364 L 15.768377 1076.999779 L 15.768377 1103.043194 Z '/>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 9.768377 1090.021486)' style='font-size:5.00'><tspan>5</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 9.768383 1150.986309)' style='font-size:5.00'><tspan>10</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 9.768380 1119.034405)' style='font-size:5.00'><tspan>16</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 9.768393 1321.009750)' style='font-size:5.00'><tspan>20</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 9.768408 1564.993496)' style='font-size:5.00'><tspan>23</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 9.768406 1514.029617)' style='font-size:5.00'><tspan>27</tspan></text>
+<text transform='matrix(-1.000000 0.000000 -0.000000 -1.000000 10.384234 1570.999737)' style='font-size:5.00'><tspan>69.</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000036 1150.986309)' style='font-size:5.00'><tspan>77</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000031 1090.021486)' style='font-size:5.00'><tspan>78</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000033 1119.034405)' style='font-size:5.00'><tspan>80</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000047 1321.009750)' style='font-size:5.00'><tspan>81</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000060 1514.029617)' style='font-size:5.00'><tspan>82</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000061 1564.993496)' style='font-size:5.00'><tspan>83</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 9.768377 1063.978071)' style='font-size:5.00'><tspan>95</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 9.768371 1003.013249)' style='font-size:5.00'><tspan>100</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 9.768375 1034.965153)' style='font-size:5.00'><tspan>106</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 9.768361 832.989807)' style='font-size:5.00'><tspan>110</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 9.768346 589.006062)' style='font-size:5.00'><tspan>113</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 9.768348 639.969940)' style='font-size:5.00'><tspan>117</tspan></text>
+<text transform='matrix(1.000000 -0.000000 0.000000 1.000000 10.384174 582.999821)' style='font-size:5.00'><tspan>159</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000025 1003.013249)' style='font-size:5.00'><tspan>167</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000031 1063.978071)' style='font-size:5.00'><tspan>168</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000028 1034.965153)' style='font-size:5.00'><tspan>170</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000014 832.989807)' style='font-size:5.00'><tspan>171</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 11.000002 639.969940)' style='font-size:5.00'><tspan>172</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 11.000000 589.006062)' style='font-size:5.00'><tspan>173</tspan></text>
+</g>
+<g>
+<text transform='translate(504.56190574914217 848.6491190269589)' style='font-size:5.00'><tspan>[5] I 5</tspan></text>
+<path class='convex' d=' M 555.059497 2692.295308 L 553.772454 2650.884266
+M 446.440642 2652.904983 L 446.713214 2694.335158
+M 561.589007 2887.633200 L 555.059497 2692.295308
+M 446.713214 2694.335158 L 447.540884 2889.780398 '/>
+<path class='concave' d=' M 446.440642 2652.904983 L 404.925828 2653.519864
+M 595.281010 2649.936075 L 553.772454 2650.884266 '/>
+<path class='outer' d=' M 595.281010 2649.936075 L 596.756165 2691.342111 L 604.197984 2886.669512 L 561.589007 2887.633200 L 530.340497 2888.221498 L 504.564946 2888.706799 L 478.789394 2889.192100 L 447.540884 2889.780398 L 404.925798 2890.421147 L 405.010198 2694.952066 L 404.925828 2653.519864 L 445.810323 2608.293171 L 446.440642 2652.904983 L 475.223009 2652.363117 L 500.106518 2651.894684 L 524.990086 2651.426191 L 553.772454 2650.884266 L 552.723114 2606.280382 Z '/>
+<text transform='matrix(0.999823 -0.018823 0.018823 0.999823 487.777685 2658.127840)' style='font-size:5.00'><tspan>4</tspan></text>
+<text transform='matrix(0.014128 0.999900 -0.999900 0.014128 440.126066 2630.683894)' style='font-size:5.00'><tspan>13</tspan></text>
+<text transform='matrix(0.999823 -0.018824 0.018824 0.999823 460.944776 2658.632989)' style='font-size:5.00'><tspan>15</tspan></text>
+<text transform='matrix(-0.002037 -0.999998 0.999998 -0.002037 410.967981 2674.223716)' style='font-size:5.00'><tspan>30</tspan></text>
+<text transform='matrix(0.000432 -1.000000 1.000000 0.000432 410.968010 2792.689200)' style='font-size:5.00'><tspan>39</tspan></text>
+<text transform='matrix(-0.999823 0.018823 -0.018823 -0.999823 463.052218 2883.487280)' style='font-size:5.00'><tspan>42</tspan></text>
+<text transform='matrix(-0.999823 0.018823 -0.018823 -0.999823 491.564219 2882.950480)' style='font-size:5.00'><tspan>43</tspan></text>
+<text transform='matrix(-0.999887 0.015035 -0.015035 -0.999887 426.143114 2884.101446)' style='font-size:5.00'><tspan>44</tspan></text>
+<text transform='matrix(0.670599 -0.741820 0.741820 0.670599 429.818963 2634.930129)' style='font-size:5.00'><tspan>79</tspan></text>
+<text transform='matrix(0.999823 -0.018823 0.018823 0.999823 512.661223 2657.659347)' style='font-size:5.00'><tspan>94</tspan></text>
+<text transform='matrix(-0.023518 -0.999723 0.999723 -0.023518 559.246127 2628.441210)' style='font-size:5.00'><tspan>103</tspan></text>
+<text transform='matrix(0.999823 -0.018824 0.018824 0.999823 539.494161 2657.154198)' style='font-size:5.00'><tspan>105</tspan></text>
+<text transform='matrix(0.035604 0.999366 -0.999366 0.035604 590.022390 2670.852716)' style='font-size:5.00'><tspan>120</tspan></text>
+<text transform='matrix(0.038072 0.999275 -0.999275 0.038072 594.481473 2789.234216)' style='font-size:5.00'><tspan>129</tspan></text>
+<text transform='matrix(-0.999823 0.018824 -0.018824 -0.999823 545.851831 2881.928439)' style='font-size:5.00'><tspan>132</tspan></text>
+<text transform='matrix(-0.999823 0.018823 -0.018823 -0.999823 517.339771 2882.465239)' style='font-size:5.00'><tspan>133</tspan></text>
+<text transform='matrix(-0.999744 0.022612 -0.022612 -0.999744 582.757835 2881.152864)' style='font-size:5.00'><tspan>134</tspan></text>
+<text transform='matrix(0.698046 0.716053 -0.716053 0.698046 569.705729 2632.296498)' style='font-size:5.00'><tspan>169</tspan></text>
+</g>
+<g>
+<text transform='translate(576.4599042013288 1360.2893399074674)' style='font-size:5.00'><tspan>[3] I 3</tspan></text>
+<path class='convex' d=' M 714.668219 2357.720728 L 744.614844 2359.041567
+M 414.804106 2344.494457 L 714.668219 2357.720728
+M 713.016276 2395.172949 L 742.962842 2396.493788
+M 413.152193 2381.946797 L 713.016276 2395.172949
+M 421.168451 1909.252401 L 727.880721 1922.780628 '/>
+<path class='concave' d=' M 718.047385 2281.107779 L 747.994010 2282.428618
+M 418.183302 2267.881508 L 718.047385 2281.107779
+M 720.341210 2228.090162 L 419.982885 2214.842076
+M 739.583676 2473.106737 L 709.637051 2471.785898
+M 709.637051 2471.785898 L 409.772937 2458.559628
+M 725.955908 1991.253371 L 422.928725 1977.887626 '/>
+<path class='outer' d=' M 739.583676 2473.106737 L 735.211079 2572.242136 L 734.736566 2582.999821 L 704.790001 2581.678982 L 404.925858 2568.452830 L 405.400340 2557.695027 L 409.772937 2458.559628 L 413.152193 2381.946797 L 414.804106 2344.494457 L 418.183302 2267.881508 L 419.982885 2214.842076 L 405.002628 2214.181299 L 404.925798 2172.709818 L 422.928725 1977.887626 L 421.168451 1909.252401 L 420.552586 1890.421267 L 728.378241 1903.998609 L 727.880721 1922.780628 L 725.955908 1991.253371 L 721.438293 2186.670299 L 720.341210 2228.090162 L 747.994010 2282.428618 L 744.614844 2359.041567 L 742.962842 2396.493788 Z '/>
+<text transform='matrix(0.999029 0.044065 -0.044065 0.999029 574.200992 1903.204079)' style='font-size:5.00'><tspan>98.</tspan></text>
+<text transform='matrix(-0.032689 -0.999466 0.999466 -0.032689 426.857357 1899.640675)' style='font-size:5.00'><tspan>99.</tspan></text>
+<text transform='matrix(-0.026478 0.999649 -0.999649 -0.026478 722.131615 1913.230772)' style='font-size:5.00'><tspan>111</tspan></text>
+<text transform='matrix(-0.999029 -0.044064 0.044064 -0.999029 412.757163 2208.517547)' style='font-size:5.00'><tspan>116</tspan></text>
+<text transform='matrix(-0.026478 0.999649 -0.999649 -0.026478 714.891856 2207.221384)' style='font-size:5.00'><tspan>120</tspan></text>
+<text transform='matrix(-0.025638 -0.999671 0.999671 -0.025638 428.046589 1943.416233)' style='font-size:5.00'><tspan>123</tspan></text>
+<text transform='matrix(-0.028100 0.999605 -0.999605 -0.028100 720.920687 1956.848498)' style='font-size:5.00'><tspan>124</tspan></text>
+<text transform='matrix(0.092015 -0.995758 0.995758 0.092015 419.901763 2075.850840)' style='font-size:5.00'><tspan>128</tspan></text>
+<text transform='matrix(-0.023112 0.999733 -0.999733 -0.023112 717.698698 2088.823195)' style='font-size:5.00'><tspan>129</tspan></text>
+<text transform='matrix(-0.001852 -0.999998 0.999998 -0.001852 410.964225 2193.434472)' style='font-size:5.00'><tspan>135</tspan></text>
+<text transform='matrix(-0.999029 -0.044064 0.044064 -0.999029 555.122321 2569.071765)' style='font-size:5.00'><tspan>140</tspan></text>
+<text transform='matrix(0.044064 -0.999029 0.999029 0.044064 411.157255 2563.338156)' style='font-size:5.00'><tspan>141</tspan></text>
+<text transform='matrix(-0.044064 0.999029 -0.999029 -0.044064 728.979652 2577.356572)' style='font-size:5.00'><tspan>142</tspan></text>
+<text transform='matrix(-0.999029 -0.044064 0.044064 -0.999029 720.027690 2576.345320)' style='font-size:5.00'><tspan>143</tspan></text>
+<text transform='matrix(-0.044065 0.999029 -0.999029 -0.044065 737.794642 2377.503390)' style='font-size:5.00'><tspan>150</tspan></text>
+<text transform='matrix(0.044064 -0.999029 0.999029 0.044064 419.972305 2363.484974)' style='font-size:5.00'><tspan>151</tspan></text>
+<text transform='matrix(0.044064 -0.999029 0.999029 0.044064 422.487860 2306.452389)' style='font-size:5.00'><tspan>155</tspan></text>
+<text transform='matrix(0.044065 -0.999029 0.999029 0.044065 417.456721 2420.517559)' style='font-size:5.00'><tspan>156</tspan></text>
+<text transform='matrix(-0.044065 0.999029 -0.999029 -0.044065 735.279088 2434.535856)' style='font-size:5.00'><tspan>157</tspan></text>
+<text transform='matrix(0.044064 -0.999029 0.999029 0.044064 413.580810 2508.391733)' style='font-size:5.00'><tspan>162</tspan></text>
+<text transform='matrix(-0.044065 0.999029 -0.999029 -0.044065 731.403236 2522.410030)' style='font-size:5.00'><tspan>163</tspan></text>
+<text transform='matrix(0.453547 0.891232 -0.891232 0.453547 728.820209 2257.980700)' style='font-size:5.00'><tspan>169</tspan></text>
+<text transform='matrix(0.033910 -0.999425 0.999425 0.033910 425.079619 2241.565342)' style='font-size:5.00'><tspan>178</tspan></text>
+<text transform='matrix(-0.044065 0.999029 -0.999029 -0.044065 740.310197 2320.470686)' style='font-size:5.00'><tspan>180</tspan></text>
+</g>
+<g>
+<text transform='translate(494.76894456893206 3193.7972055748105)' style='font-size:5.00'><tspan>[2] I 2</tspan></text>
+<path class='concave' d=' M 584.612076 349.527235 L 573.843722 349.527235
+M 573.843722 456.878061 L 584.612076 456.878061
+M 573.843722 349.527235 L 474.612092 349.527235
+M 474.612062 456.878061 L 573.843722 456.878061 '/>
+<path class='outer' d=' M 584.612076 378.314848 L 584.612076 403.202648 L 584.612076 428.090687 L 584.612076 456.878061 L 584.612076 501.498814 L 584.612076 538.987513 L 573.843722 538.987513 L 474.612092 538.987513 L 404.925798 570.999737 L 404.925798 533.511038 L 474.612092 501.498814 L 474.612062 456.878061 L 474.612062 428.090687 L 474.612092 403.202648 L 474.612092 378.314848 L 474.612092 349.527235 L 474.612062 304.906483 L 404.925798 272.894497 L 404.925798 235.405560 L 474.612092 267.417784 L 573.843722 267.417784 L 584.612076 267.418022 L 584.612076 304.906483 L 584.612076 349.527235 Z '/>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 480.612104 390.758629)' style='font-size:5.00'><tspan>4</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 578.612094 363.921042)' style='font-size:5.00'><tspan>11</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 480.612074 327.216978)' style='font-size:5.00'><tspan>13</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 480.612074 363.921042)' style='font-size:5.00'><tspan>15</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 578.612094 390.758629)' style='font-size:5.00'><tspan>17</tspan></text>
+<text transform='matrix(1.000000 0.000001 -0.000001 1.000000 579.227869 273.417826)' style='font-size:5.00'><tspan>52</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 578.612094 286.162253)' style='font-size:5.00'><tspan>55</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 410.925810 254.150028)' style='font-size:5.00'><tspan>60.</tspan></text>
+<text transform='matrix(0.908705 0.417438 -0.417438 0.908705 437.264328 256.863947)' style='font-size:5.00'><tspan>67</tspan></text>
+<text transform='matrix(1.000000 -0.000000 0.000000 1.000000 524.227922 273.417826)' style='font-size:5.00'><tspan>73</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 578.612094 327.216978)' style='font-size:5.00'><tspan>87</tspan></text>
+<text transform='matrix(-0.908705 -0.417438 0.417438 -0.908705 442.273562 283.448334)' style='font-size:5.00'><tspan>90.</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 480.612074 415.646668)' style='font-size:5.00'><tspan>94</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 578.612094 442.484493)' style='font-size:5.00'><tspan>101</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 480.612074 479.188557)' style='font-size:5.00'><tspan>103</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 480.612074 442.484493)' style='font-size:5.00'><tspan>105</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 578.612094 415.646668)' style='font-size:5.00'><tspan>107</tspan></text>
+<text transform='matrix(-1.000000 0.000000 -0.000000 -1.000000 579.227869 532.987471)' style='font-size:5.00'><tspan>142</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 578.612094 520.243282)' style='font-size:5.00'><tspan>145</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 410.925810 552.255507)' style='font-size:5.00'><tspan>150</tspan></text>
+<text transform='matrix(-0.908705 0.417438 -0.417438 -0.908705 437.264298 549.541350)' style='font-size:5.00'><tspan>157</tspan></text>
+<text transform='matrix(-1.000000 0.000000 -0.000000 -1.000000 524.227922 532.987471)' style='font-size:5.00'><tspan>163</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 578.612094 479.188557)' style='font-size:5.00'><tspan>177</tspan></text>
+<text transform='matrix(0.908705 -0.417438 0.417438 0.908705 442.273562 522.957201)' style='font-size:5.00'><tspan>180</tspan></text>
+</g>
+<g>
+<text transform='translate(493.8847990706563 2248.178173787892)' style='font-size:5.00'><tspan>[14] I 14</tspan></text>
+<path class='convex' d=' M 516.739313 1496.943827 L 419.008140 1479.752417 '/>
+<path class='concave' d=' M 550.787275 1303.383465 L 453.056102 1286.192055
+M 565.743570 1218.357678 L 468.012457 1201.166268
+M 460.261886 1245.227690 L 557.993059 1262.419100
+M 576.349144 1220.223065 L 565.743570 1218.357678
+M 557.993059 1262.419100 L 568.598573 1264.284725 '/>
+<path class='outer' d=' M 404.925947 1559.808607 L 408.193474 1541.233177 L 419.008140 1479.752417 L 453.056102 1286.192055 L 460.261886 1245.227690 L 468.012457 1201.166268 L 404.925798 1157.565470 L 411.420499 1120.643730 L 474.507098 1164.244528 L 572.238271 1181.435700 L 582.843785 1183.301325 L 576.349144 1220.223065 L 568.598573 1264.284725 L 561.392789 1305.248852 L 550.787275 1303.383465 L 516.739313 1496.943827 L 505.924647 1558.424349 L 502.657150 1576.999779 Z '/>
+<text transform='matrix(-0.984879 -0.173243 0.173243 -0.984879 454.831009 1562.494869)' style='font-size:5.00'><tspan>92</tspan></text>
+<text transform='matrix(0.173244 -0.984879 0.984879 0.173244 462.568288 1266.749497)' style='font-size:5.00'><tspan>93</tspan></text>
+<text transform='matrix(-0.173244 0.984879 -0.984879 -0.173244 566.564565 1241.214390)' style='font-size:5.00'><tspan>104</tspan></text>
+<text transform='matrix(-0.173244 0.984879 -0.984879 -0.173244 559.086387 1283.727284)' style='font-size:5.00'><tspan>118</tspan></text>
+<text transform='matrix(0.173244 -0.984879 0.984879 0.173244 441.941385 1384.011860)' style='font-size:5.00'><tspan>119</tspan></text>
+<text transform='matrix(-0.984879 -0.173243 0.173243 -0.984879 557.129507 1298.406716)' style='font-size:5.00'><tspan>121</tspan></text>
+<text transform='matrix(0.173244 -0.984879 0.984879 0.173244 412.468974 1551.560278)' style='font-size:5.00'><tspan>125</tspan></text>
+<text transform='matrix(0.173244 -0.984879 0.984879 0.173244 419.510071 1511.532183)' style='font-size:5.00'><tspan>126</tspan></text>
+<text transform='matrix(0.984879 0.173243 -0.173243 0.984879 576.501613 1188.277836)' style='font-size:5.00'><tspan>137</tspan></text>
+<text transform='matrix(-0.822646 -0.568554 0.568554 -0.822646 439.880435 1174.430008)' style='font-size:5.00'><tspan>147</tspan></text>
+<text transform='matrix(0.173244 -0.984879 0.984879 0.173244 414.082413 1140.143986)' style='font-size:5.00'><tspan>149</tspan></text>
+<text transform='matrix(0.822646 0.568554 -0.568554 0.822646 439.552491 1147.379990)' style='font-size:5.00'><tspan>153</tspan></text>
+<text transform='matrix(0.984879 0.173244 -0.173244 0.984879 522.333209 1178.749437)' style='font-size:5.00'><tspan>160</tspan></text>
+<text transform='matrix(-0.173244 0.984879 -0.984879 -0.173244 505.422716 1526.644583)' style='font-size:5.00'><tspan>164</tspan></text>
+<text transform='matrix(-0.173244 0.984879 -0.984879 -0.173244 498.381619 1566.672678)' style='font-size:5.00'><tspan>165</tspan></text>
+<text transform='matrix(-0.173244 0.984879 -0.984879 -0.173244 527.854030 1399.124022)' style='font-size:5.00'><tspan>166</tspan></text>
+<text transform='matrix(-0.173244 0.984879 -0.984879 -0.173244 573.687200 1200.722809)' style='font-size:5.00'><tspan>174</tspan></text>
+<text transform='matrix(0.173244 -0.984879 0.984879 0.173244 470.046406 1224.236603)' style='font-size:5.00'><tspan>176</tspan></text>
+</g>
+<g>
+<text transform='translate(449.41670168191195 2658.744861371815)' style='font-size:5.00'><tspan>[8] I 8</tspan></text>
+<path class='convex' d=' M 419.503395 948.370571 L 463.417565 950.317974
+M 463.417565 950.317974 L 485.636775 951.303358
+M 461.756681 987.769718 L 417.842572 985.822315
+M 483.975922 988.755102 L 461.756681 987.769718
+M 414.445077 1062.434549 L 458.329205 1109.045143 '/>
+<path class='concave' d=' M 422.900890 871.758337 L 466.815029 873.705740
+M 466.815029 873.705740 L 489.034240 874.691124
+M 414.445077 1062.434549 L 458.359216 1064.381952
+M 458.359216 1064.381952 L 480.578427 1065.367336 '/>
+<path class='outer' d=' M 427.774225 761.866446 L 471.688394 763.813849 L 493.907605 764.799233 L 493.430530 775.556917 L 489.034240 874.691124 L 485.636775 951.303358 L 483.975922 988.755102 L 480.578427 1065.367336 L 481.834059 1110.087509 L 458.329205 1109.045143 L 404.925798 1114.643688 L 414.445077 1062.434549 L 417.842572 985.822315 L 419.503395 948.370571 L 422.900890 871.758337 L 427.297150 772.624130 Z '/>
+<text transform='matrix(-0.994550 0.104265 -0.104265 -0.994550 431.001906 1105.877037)' style='font-size:5.00'><tspan>97</tspan></text>
+<text transform='matrix(-0.999018 -0.044305 0.044305 -0.999018 470.347469 1103.572245)' style='font-size:5.00'><tspan>112</tspan></text>
+<text transform='matrix(-0.044304 0.999018 -0.999018 -0.044304 487.674956 769.912119)' style='font-size:5.00'><tspan>137</tspan></text>
+<text transform='matrix(0.999018 0.044303 -0.044303 0.999018 482.532178 770.300503)' style='font-size:5.00'><tspan>138</tspan></text>
+<text transform='matrix(0.044304 -0.999018 0.999018 0.044304 433.529799 767.511006)' style='font-size:5.00'><tspan>139</tspan></text>
+<text transform='matrix(0.999018 0.044303 -0.044303 0.999018 449.465488 768.834229)' style='font-size:5.00'><tspan>144</tspan></text>
+<text transform='matrix(-0.044303 0.999018 -0.999018 -0.044303 476.283078 1026.795263)' style='font-size:5.00'><tspan>147</tspan></text>
+<text transform='matrix(0.044303 -0.999018 0.999018 0.044303 424.667095 967.362280)' style='font-size:5.00'><tspan>148</tspan></text>
+<text transform='matrix(-0.044303 0.999018 -0.999018 -0.044303 478.812252 969.763394)' style='font-size:5.00'><tspan>149</tspan></text>
+<text transform='matrix(0.044303 -0.999018 0.999018 0.044303 422.137921 1024.394150)' style='font-size:5.00'><tspan>152</tspan></text>
+<text transform='matrix(-0.044303 0.999018 -0.999018 -0.044303 481.341396 912.731285)' style='font-size:5.00'><tspan>153</tspan></text>
+<text transform='matrix(0.044303 -0.999018 0.999018 0.044303 427.196269 910.330172)' style='font-size:5.00'><tspan>154</tspan></text>
+<text transform='matrix(0.179372 -0.983781 0.983781 0.179372 415.588145 1089.615221)' style='font-size:5.00'><tspan>158</tspan></text>
+<text transform='matrix(-0.044303 0.999018 -0.999018 -0.044303 485.238259 824.858303)' style='font-size:5.00'><tspan>160</tspan></text>
+<text transform='matrix(0.044303 -0.999018 0.999018 0.044303 431.093131 822.456951)' style='font-size:5.00'><tspan>161</tspan></text>
+<text transform='matrix(0.028066 0.999606 -0.999606 0.028066 475.208585 1087.895746)' style='font-size:5.00'><tspan>176</tspan></text>
+</g>
+<g>
+<text transform='translate(576.4599042013288 354.2893575504422)' style='font-size:5.00'><tspan>[4] I 4</tspan></text>
+<path class='convex' d=' M 413.152133 3097.474392 L 713.016276 3084.248121
+M 713.016276 3084.248121 L 742.962842 3082.927282
+M 714.668219 3121.700401 L 414.804076 3134.926672
+M 744.614785 3120.379533 L 714.668219 3121.700401
+M 421.168570 3570.168759 L 727.880840 3556.640464 '/>
+<path class='concave' d=' M 409.772937 3020.861442 L 709.637051 3007.635231
+M 709.637051 3007.635231 L 739.583676 3006.314333
+M 418.183272 3211.539621 L 718.047445 3198.313351
+M 718.047445 3198.313351 L 747.994010 3196.992482
+M 419.982885 3264.579083 L 720.341210 3251.330997
+M 422.928815 3501.533548 L 725.955968 3488.167736 '/>
+<path class='outer' d=' M 405.400311 2921.726163 L 404.925798 2910.968359 L 704.789941 2897.742088 L 734.736566 2896.421189 L 735.211019 2907.179053 L 739.583676 3006.314333 L 742.962842 3082.927282 L 744.614785 3120.379533 L 747.994010 3196.992482 L 720.341210 3251.330997 L 721.438353 3292.750831 L 725.955968 3488.167736 L 727.880840 3556.640464 L 728.378301 3575.422502 L 420.552676 3588.999905 L 421.168570 3570.168759 L 422.928815 3501.533548 L 404.925828 3306.711431 L 405.002628 3265.239830 L 419.982885 3264.579083 L 418.183272 3211.539621 L 414.804076 3134.926672 L 413.152133 3097.474392 L 409.772937 3020.861442 Z '/>
+<text transform='matrix(-0.999029 0.044065 -0.044065 -0.999029 574.201112 3576.217032)' style='font-size:5.00'><tspan>8</tspan></text>
+<text transform='matrix(0.032689 -0.999466 0.999466 0.032689 426.857417 3579.780464)' style='font-size:5.00'><tspan>9.</tspan></text>
+<text transform='matrix(0.026479 0.999649 -0.999649 0.026479 722.131734 3566.190359)' style='font-size:5.00'><tspan>21</tspan></text>
+<text transform='matrix(0.999029 -0.044065 0.044065 0.999029 412.757133 3270.903642)' style='font-size:5.00'><tspan>26</tspan></text>
+<text transform='matrix(0.026479 0.999649 -0.999649 0.026479 714.891915 3272.199775)' style='font-size:5.00'><tspan>30</tspan></text>
+<text transform='matrix(0.025638 -0.999671 0.999671 0.025638 428.046708 3536.004978)' style='font-size:5.00'><tspan>33</tspan></text>
+<text transform='matrix(0.028100 0.999605 -0.999605 0.028100 720.920806 3522.572699)' style='font-size:5.00'><tspan>34</tspan></text>
+<text transform='matrix(-0.092015 -0.995758 0.995758 -0.092015 419.901882 3403.570394)' style='font-size:5.00'><tspan>38</tspan></text>
+<text transform='matrix(0.023112 0.999733 -0.999733 0.023112 717.698817 3390.597965)' style='font-size:5.00'><tspan>39</tspan></text>
+<text transform='matrix(0.001852 -0.999998 0.999998 0.001852 410.964225 3285.986717)' style='font-size:5.00'><tspan>45</tspan></text>
+<text transform='matrix(0.999029 -0.044065 0.044065 0.999029 555.122261 2910.349364)' style='font-size:5.00'><tspan>50</tspan></text>
+<text transform='matrix(-0.044065 -0.999029 0.999029 -0.044065 411.157225 2916.082854)' style='font-size:5.00'><tspan>51</tspan></text>
+<text transform='matrix(0.044065 0.999029 -0.999029 0.044065 728.979592 2902.064557)' style='font-size:5.00'><tspan>52</tspan></text>
+<text transform='matrix(0.999029 -0.044065 0.044065 0.999029 720.027571 2903.075750)' style='font-size:5.00'><tspan>53</tspan></text>
+<text transform='matrix(0.044065 0.999029 -0.999029 0.044065 737.794642 3101.917799)' style='font-size:5.00'><tspan>60.</tspan></text>
+<text transform='matrix(-0.044065 -0.999029 0.999029 -0.044065 419.972275 3115.936155)' style='font-size:5.00'><tspan>61</tspan></text>
+<text transform='matrix(-0.044064 -0.999029 0.999029 -0.044064 422.487830 3172.968741)' style='font-size:5.00'><tspan>65</tspan></text>
+<text transform='matrix(-0.044065 -0.999029 0.999029 -0.044065 417.456691 3058.903511)' style='font-size:5.00'><tspan>66.</tspan></text>
+<text transform='matrix(0.044064 0.999029 -0.999029 0.044064 735.279088 3044.885154)' style='font-size:5.00'><tspan>67</tspan></text>
+<text transform='matrix(-0.044065 -0.999029 0.999029 -0.044065 413.580780 2971.029456)' style='font-size:5.00'><tspan>72</tspan></text>
+<text transform='matrix(0.044065 0.999029 -0.999029 0.044065 731.403177 2957.011099)' style='font-size:5.00'><tspan>73</tspan></text>
+<text transform='matrix(-0.453546 0.891233 -0.891233 -0.453546 728.820209 3221.440460)' style='font-size:5.00'><tspan>79</tspan></text>
+<text transform='matrix(-0.033910 -0.999425 0.999425 -0.033910 425.079619 3237.855877)' style='font-size:5.00'><tspan>88</tspan></text>
+<text transform='matrix(0.044065 0.999029 -0.999029 0.044065 740.310197 3158.950414)' style='font-size:5.00'><tspan>90.</tspan></text>
+</g>
+<g>
+<text transform='translate(494.76894456893206 1834.2009903863072)' style='font-size:5.00'><tspan>[11] I 11</tspan></text>
+<path class='convex' d=' M 514.925842 1710.677500 L 415.694182 1710.677500
+M 415.694182 1710.677500 L 404.925828 1710.677500 '/>
+<path class='concave' d=' M 514.925783 1814.920302 L 415.694152 1814.920302
+M 486.200814 1770.296331 L 412.882154 1770.296331
+M 404.925798 1814.920302 L 415.694152 1814.920302
+M 412.882154 1770.296331 L 404.925828 1770.296331
+M 486.200814 1755.301471 L 412.882154 1755.301471
+M 412.882154 1755.301471 L 404.925828 1755.301471 '/>
+<path class='outer' d=' M 404.925798 1852.409001 L 404.925798 1814.920302 L 404.925828 1770.296331 L 404.925828 1755.301471 L 404.925828 1710.677500 L 404.925828 1673.188801 L 415.694182 1673.188801 L 514.925842 1673.188801 L 584.612076 1641.176577 L 584.612076 1678.665276 L 514.925842 1710.677500 L 486.200814 1755.301471 L 486.200814 1770.296331 L 514.925783 1814.920302 L 584.612076 1846.932526 L 584.612076 1884.421225 L 514.925783 1852.409001 L 415.694122 1852.409001 Z '/>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 410.925810 1762.798901)' style='font-size:5.00'><tspan>114</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 480.200832 1762.798901)' style='font-size:5.00'><tspan>116</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 410.925810 1691.933150)' style='font-size:5.00'><tspan>136</tspan></text>
+<text transform='matrix(1.000000 -0.000001 0.000001 1.000000 410.309975 1679.188843)' style='font-size:5.00'><tspan>139</tspan></text>
+<text transform='matrix(-1.000000 -0.000000 0.000000 -1.000000 410.309975 1846.408959)' style='font-size:5.00'><tspan>141</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 410.925810 1833.664651)' style='font-size:5.00'><tspan>146</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 578.612094 1659.920926)' style='font-size:5.00'><tspan>148</tspan></text>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 578.612094 1865.676875)' style='font-size:5.00'><tspan>151</tspan></text>
+<text transform='matrix(-0.908705 0.417438 -0.417438 -0.908705 547.264342 1689.219113)' style='font-size:5.00'><tspan>152</tspan></text>
+<text transform='matrix(0.908705 -0.417438 0.417438 0.908705 552.273576 1662.634964)' style='font-size:5.00'><tspan>154</tspan></text>
+<text transform='matrix(0.908705 0.417438 -0.417438 0.908705 547.264283 1836.378689)' style='font-size:5.00'><tspan>155</tspan></text>
+<text transform='matrix(-0.908705 -0.417438 0.417438 -0.908705 552.273576 1862.962837)' style='font-size:5.00'><tspan>156</tspan></text>
+<text transform='matrix(-0.541266 0.840851 -0.840851 -0.541266 495.518212 1729.741926)' style='font-size:5.00'><tspan>158</tspan></text>
+<text transform='matrix(1.000000 -0.000000 0.000000 1.000000 465.309982 1679.188843)' style='font-size:5.00'><tspan>161</tspan></text>
+<text transform='matrix(-1.000000 -0.000000 0.000000 -1.000000 465.309982 1846.408959)' style='font-size:5.00'><tspan>162</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 410.925810 1792.608256)' style='font-size:5.00'><tspan>175</tspan></text>
+<text transform='matrix(0.541266 0.840851 -0.840851 0.541266 495.518212 1795.855875)' style='font-size:5.00'><tspan>178</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 410.925810 1732.989545)' style='font-size:5.00'><tspan>179</tspan></text>
+</g>
+<g>
+<text transform='translate(21.152589470148087 2731.969748623669)' style='font-size:5.00'><tspan>[21] I 21</tspan></text>
+<path class='convex' d=' M 26.536766 922.653551 L 15.768419 922.653551 '/>
+<path class='outer' d=' M 26.536754 726.121540 L 26.536766 922.653551 L 26.536771 985.078211 L 26.536771 1003.938789 L 15.768424 1003.938789 L 15.768425 985.078211 L 15.768419 922.653551 L 15.768408 726.121540 Z '/>
+<text transform='matrix(-0.000000 1.000000 -1.000000 -0.000000 20.536770 994.508381)' style='font-size:5.00'><tspan>91</tspan></text>
+<text transform='matrix(1.000000 -0.000000 0.000000 1.000000 21.152583 732.121582)' style='font-size:5.00'><tspan>121</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 20.536768 953.865881)' style='font-size:5.00'><tspan>122</tspan></text>
+<text transform='matrix(0.000000 1.000000 -1.000000 0.000000 20.536760 824.387665)' style='font-size:5.00'><tspan>127</tspan></text>
+<text transform='matrix(-1.000000 0.000000 -0.000000 -1.000000 21.152596 997.938748)' style='font-size:5.00'><tspan>159</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 21.768422 953.865881)' style='font-size:5.00'><tspan>164</tspan></text>
+<text transform='matrix(0.000000 -1.000000 1.000000 0.000000 21.768424 994.508381)' style='font-size:5.00'><tspan>165</tspan></text>
+<text transform='matrix(-0.000000 -1.000000 1.000000 -0.000000 21.768414 824.387665)' style='font-size:5.00'><tspan>166</tspan></text>
+</g>
+<g>
+<text transform='translate(175.16752798110247 2775.6065698340535)' style='font-size:5.00'><tspan>[16] I 16</tspan></text>
+<path class='convex' d=' M 133.468215 798.055763 L 199.491461 866.788263 '/>
+<path class='outer' d=' M 218.170409 864.320870 L 199.491461 866.788263 L 132.164647 880.241747 L 133.468215 798.055763 L 132.164662 774.189110 L 193.945353 765.246744 L 212.611486 762.544985 L 213.921090 786.521788 Z '/>
+<text transform='matrix(0.054538 0.998512 -0.998512 0.054538 207.275216 774.860497)' style='font-size:5.00'><tspan>96.</tspan></text>
+<text transform='matrix(-0.991387 0.130962 -0.130962 -0.991387 208.045159 859.606142)' style='font-size:5.00'><tspan>99.</tspan></text>
+<text transform='matrix(0.054538 0.998512 -0.998512 0.054538 210.054670 825.748558)' style='font-size:5.00'><tspan>115</tspan></text>
+<text transform='matrix(-0.980614 0.195951 -0.195951 -0.980614 164.652352 867.631312)' style='font-size:5.00'><tspan>123</tspan></text>
+<text transform='matrix(0.989686 -0.143252 0.143252 0.989686 204.137926 769.833918)' style='font-size:5.00'><tspan>125</tspan></text>
+<text transform='matrix(0.989686 -0.143253 0.143253 0.989686 163.914521 775.656099)' style='font-size:5.00'><tspan>126</tspan></text>
+<text transform='matrix(-0.054537 -0.998512 0.998512 -0.054537 138.807510 785.795326)' style='font-size:5.00'><tspan>130</tspan></text>
+<text transform='matrix(0.015859 -0.999874 0.999874 0.015859 138.815676 839.244003)' style='font-size:5.00'><tspan>131</tspan></text>
+</g>
+</g>
+</svg>
